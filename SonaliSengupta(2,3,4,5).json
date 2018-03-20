@@ -1,1882 +1,2317 @@
 {
-  "New target for inhibition of bacterial RNA polymerase: ‘switch region’": [
-    {
-      "Name": " Antibiotics and bacterial resistance in the 21st century",
-      "Author Details": [
-        {
-          "Y Tor": "University of California, San Diego"
-        },
-        {
-          "RJ Fair": ""
-        }
-      ]
-    },
-    {
-      "Name": " Opening and closing of the bacterial RNA polymerase clamp",
-      "Author Details": [
-        {
-          "A Chakraborty": "Stanford University"
-        },
-        {
-          " D Wang": ""
-        },
-        {
-          " YW Ebright": ""
-        },
-        {
-          " Y Korlann": ""
-        }
-      ]
-    },
-    {
-      "Name": " How low can you go? Physical production mechanism of elephant infrasonic vocalizations",
-      "Author Details": [
-        {
-          "AS Stoeger": "PostDoc at the Department of Cognitive Biology, University of Vienna"
-        },
-        {
-          "CT Herbst": ""
-        },
-        {
-          "R Frey": ""
-        },
-        {
-          "J Lohscheller": ""
-        }
-      ]
-    },
-    {
-      "Name": " Recent advances in the understanding of antibiotic resistance in Clostridium difficile infection",
-      "Author Details": [
-        {
-          "P Spigaglia": ""
-        }
-      ]
-    },
-    {
-      "Name": " Challenges and future prospects of antibiotic therapy: from peptides to phages utilization",
-      "Author Details": [
-        {
-          "A Roy": "Assistant Professor,Chemical Engineering, BIT Mesra"
-        },
-        {
-          "SM Mandal": ""
-        },
-        {
-          " AK Ghosh": ""
-        },
-        {
-          "TK Hazra": ""
-        }
-      ]
-    },
-    {
-      "Name": " Characterizations of clinical isolates of Clostridium difficile by toxin genotypes and by susceptibility to 12 antimicrobial agents, including fidaxomicin (OPT-80) and …",
-      "Author Details": [
-        {
-          "CH Liao": "Far Eastern Memorial Hospital, Taipei, Taiwan"
-        },
-        {
-          "WC Ko": "Unknown affiliation"
-        },
-        {
-          "JJ Lu": ""
-        },
-        {
-          " PR Hsueh": ""
-        }
-      ]
-    },
-    {
-      "Name": " Investigations of the mode of action and resistance development of cadazolid, a new antibiotic for treatment of Clostridium difficile infections",
-      "Author Details": [
-        {
-          "HH Locher": ""
-        },
-        {
-          " P Caspers": ""
-        },
-        {
-          "T Bruyère": ""
-        }
-      ]
-    },
-    {
-      "Name": " Antibiotics from myxobacteria",
-      "Author Details": [
-        {
-          "GM König": "Professor for Pharmaceutical Biology"
-        },
-        {
-          "TF Schäberle": ""
-        },
-        {
-          " F Lohr": ""
-        },
-        {
-          " A Schmitz": ""
-        }
-      ]
-    },
-    {
-      "Name": " Access to Skipped Polyene Macrolides through Ring‐Closing Metathesis: Total Synthesis of the RNA Polymerase Inhibitor Ripostatin B",
-      "Author Details": [
-        {
-          "P Winter": ""
-        },
-        {
-          "W Hiller": ""
-        },
-        {
-          "M Christmann": ""
-        }
-      ]
-    },
-    {
-      "Name": " In vitro selection, via serial passage, of Clostridium difficile mutants with reduced susceptibility to fidaxomicin or vancomycin",
-      "Author Details": [
-        {
-          "JA Leeds": ""
-        },
-        {
-          " M Sachdeva": ""
-        },
-        {
-          " S Mullin": ""
-        }
-      ]
-    },
-    {
-      "Name": " Fidaxomicin in Clostridium difficile infection: latest evidence and clinical guidance",
-      "Author Details": [
-        {
-          "K Mullane": ""
-        }
-      ]
-    },
-    {
-      "Name": " Transcription inhibition by the depsipeptide antibiotic salinamide A",
-      "Author Details": [
-        {
-          "D Degen": ""
-        },
-        {
-          "Y Feng": "Zhejiang University"
-        },
-        {
-          "Y Zhang": "Institute of Plant Physiology and Ecology, Shanghai Institute for Biological Sciences, CAS"
-        }
-      ]
-    },
-    {
-      "Name": " Assembly and clustering of natural antibiotics guides target identification",
-      "Author Details": [
-        {
-          "CW Johnston": "Massachusetts Institute of Technology"
-        },
-        {
-          "MA Skinnider": "University of British Columbia"
-        },
-        {
-          "CA Dejong": ""
-        }
-      ]
-    },
-    {
-      "Name": " GE23077 binds to the RNA polymerase 'i'and 'i+ 1'sites and prevents the binding of initiating nucleotides",
-      "Author Details": [
-        {
-          "Y Zhang": "Institute of Plant Physiology and Ecology, Shanghai Institute for Biological Sciences, CAS"
-        },
-        {
-          "E Sineva": "Research Scientist, Pebble Labs, New Mexico Consortium"
-        }
-      ]
-    },
-    {
-      "Name": " Total synthesis of the bacterial RNA polymerase inhibitor ripostatin B",
-      "Author Details": [
-        {
-          "F Glaus": ""
-        },
-        {
-          " KH Altmann": ""
-        }
-      ]
-    },
-    {
-      "Name": " Novel rapidly diversifiable antimicrobial RNA polymerase switch region inhibitors with confirmed mode of action in Haemophilus influenzae",
-      "Author Details": [
-        {
-          "ET Buurman": ""
-        },
-        {
-          " MA Foulk": ""
-        },
-        {
-          " N Gao": ""
-        },
-        {
-          " VA Laganas": ""
-        }
-      ]
-    },
-    {
-      "Name": " Novel small molecule inhibitors targeting the “switch region” of bacterial RNAP: structure-based optimization of a virtual screening hit",
-      "Author Details": [
-        {
-          "JH Sahner": ""
-        },
-        {
-          " M Groh": ""
-        },
-        {
-          " M Negri": ""
-        },
-        {
-          " J Haupenthal": ""
-        }
-      ]
-    },
-    {
-      "Name": " TFE and Spt4/5 open and close the RNA polymerase clamp during the transcription cycle",
-      "Author Details": [
-        {
-          "S Schulz": ""
-        },
-        {
-          " A Gietl": ""
-        },
-        {
-          "K Smollett": "MRC - University of Glasgow Centre for Virus Research"
-        }
-      ]
-    },
-    {
-      "Name": " From natural product to marketed drug: the tiacumicin odyssey",
-      "Author Details": [
-        {
-          "W Erb": ""
-        },
-        {
-          " J Zhu": ""
-        }
-      ]
-    },
-    {
-      "Name": " Natural products from myxobacteria: novel metabolites and bioactivities",
-      "Author Details": [
-        {
-          "AA Fayad": "Instructor at American University of Beirut"
-        }
-      ]
-    },
-    {
-      "Name": " New antibiotics from Nature's chemical inventory",
-      "Author Details": [
-        {
-          "TA Wencewicz ": ""
-        }
-      ]
-    },
-    {
-      "Name": " Antibiotics from predatory bacteria",
-      "Author Details": [
-        {
-          "J Korp": ""
-        },
-        {
-          "MSV Gurovic": ""
-        },
-        {
-          "M Nett": ""
-        }
-      ]
-    },
-    {
-      "Name": " Bacterial transcription as a target for antibacterial drug development",
-      "Author Details": [
-        {
-          "C Ma": "Hong Kong Polytechnic University"
-        }
-      ]
-    },
-    {
-      "Name": " Characterization of flavonol inhibition of DnaB helicase: real-time monitoring, structural modeling, and proposed mechanism",
-      "Author Details": [
-        {
-          "HH Lin": ""
-        },
-        {
-          " CY Huang": ""
-        }
-      ]
-    },
-    {
-      "Name": " Frequency, spectrum, and nonzero fitness costs of resistance to myxopyronin in Staphylococcus aureus",
-      "Author Details": [
-        {
-          "A Srivastava": ""
-        },
-        {
-          " D Degen": ""
-        },
-        {
-          " YW Ebright": ""
-        }
-      ]
-    },
-    {
-      "Name": " Salinamide F, new depsipeptide antibiotic and inhibitor of bacterial RNA polymerase from a marine-derived Streptomyces sp.",
-      "Author Details": [
-        {
-          "HM Hassan": "Assistant professor, College of Pharmacy, Beni Suef University and Nahda university beni-suef"
-        },
-        {
-          "RH Ebright": "Board of Governors Professor of Chemistry and Chemical Biology, Rutgers University"
-        }
-      ]
-    },
-    {
-      "Name": " Emerging therapies for Clostridium difficile infection–focus on fidaxomicin",
-      "Author Details": [
-        {
-          "F Chaparro-Rojas": ""
-        },
-        {
-          "KM Mullane": ""
-        }
-      ]
-    },
-    {
-      "Name": " Elucidation of DnaE as the antibacterial target of the natural product, nargenicin",
-      "Author Details": [
-        {
-          "RE Painter": ""
-        },
-        {
-          " GC Adam": ""
-        },
-        {
-          " M Arocho": ""
-        },
-        {
-          " E DiNunzio": ""
-        }
-      ]
-    },
-    {
-      "Name": " Expanding the scaffold for bacterial RNA polymerase inhibitors: design, synthesis and structure–activity relationships of ureido-heterocyclic-carboxylic acids",
-      "Author Details": [
-        {
-          "WAM Elgaher": ""
-        },
-        {
-          " M Fruth": ""
-        },
-        {
-          " M Groh": ""
-        },
-        {
-          " J Haupenthal": ""
-        }
-      ]
-    },
-    {
-      "Name": " Archaeology of RNA polymerase: factor swapping during the transcription cycle",
-      "Author Details": [
-        {
-          "F Blombach": "Postdoctoral Fellow, University College London"
-        }
-      ]
-    },
-    {
-      "Name": " Clostridium difficile infection in diabetes",
-      "Author Details": [
-        {
-          "HQ Qu": "McGill University Health Centre"
-        }
-      ]
-    },
-    {
-      "Name": " CBR antimicrobials alter coupling between the bridge helix and the β subunit in RNA polymerase",
-      "Author Details": [
-        {
-          "AM Malinen": "Department of Physics, University of Oxford / Department of Biochemistry, University of Turku"
-        }
-      ]
-    },
-    {
-      "Name": " Advanced Mutasynthesis Studies on the Natural α‐Pyrone Antibiotic Myxopyronin from Myxococcus fulvus",
-      "Author Details": [
-        {
-          "JH Sahner": ""
-        },
-        {
-          " H Sucipto": ""
-        },
-        {
-          " SC Wenzel": ""
-        },
-        {
-          " M Groh": ""
-        }
-      ]
-    },
-    {
-      "Name": " X-ray Crystal Structures of Escherichia coli RNA Polymerase with Switch Region Binding Inhibitors Enable Rational Design of Squaramides with an …",
-      "Author Details": [
-        {
-          "V Molodtsov": ""
-        },
-        {
-          " PR Fleming": ""
-        },
-        {
-          " CJ Eyermann": ""
-        }
-      ]
-    },
-    {
-      "Name": " Antibacterial nucleoside-analog inhibitor of bacterial RNA polymerase",
-      "Author Details": [
-        {
-          "SI Maffioli": "Naicons srl"
-        },
-        {
-          "Y Zhang": "Institute of Plant Physiology and Ecology, Shanghai Institute for Biological Sciences, CAS"
-        },
-        {
-          "T Carzaniga": "Università degli Studi di Milano Dipartimento di biotecnologie mediche e medicina traslazionale"
-        }
-      ]
-    },
-    {
-      "Name": " Targeting transcription factor binding to DNA by competing with DNA binders as an approach for controlling gene expression",
-      "Author Details": [
-        {
-          "M Amine Bouhlel": " University of Lille North of France"
-        }
-      ]
-    },
-    {
-      "Name": " Key targets and relevant inhibitors for the drug discovery of tuberculosis",
-      "Author Details": [
-        {
-          "Z Xu": "Shanghai Institute of Materia Medica, Chinese Academy of Sciences"
-        }
-      ]
-    },
-    {
-      "Name": " C-terminal domain swapping of SSB changes the size of the ssDNA binding site",
-      "Author Details": [
-        {
-          "YH Huang": ""
-        },
-        {
-          " CY Huang": ""
-        }
-      ]
-    },
-    {
-      "Name": " Binding mode characterization of novel RNA polymerase inhibitors using a combined biochemical and NMR approach",
-      "Author Details": [
-        {
-          "M Fruth": ""
-        },
-        {
-          " A Plaza": ""
-        },
-        {
-          "S Hinsberger": ""
-        },
-        {
-          " JH Sahner": ""
-        }
-      ]
-    },
-    {
-      "Name": " Synthesis and evaluation of novel analogues of ripostatins",
-      "Author Details": [
-        {
-          "RH Ebright": "Board of Governors Professor of Chemistry and Chemical Biology, Rutgers University"
-        }
-      ]
-    },
-    {
-      "Name": " Structural basis of Mycobacterium tuberculosis transcription and transcription inhibition",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Structural basis of transcription inhibition by CBR hydroxamidines and CBR pyrazoles",
-      "Author Details": [
-        {
-          "Y Feng": "Zhejiang University"
-        },
-        {
-          "Y Zhang": "Professor of Molecular Microbiology , Imperial College London"
-        }
-      ]
-    },
-    {
-      "Name": " Discovery and structure-based optimization of 2-ureidothiophene-3-carboxylic acids as dual bacterial RNA polymerase and viral reverse transcriptase inhibitors",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " A dual switch controls bacterial enhancer-dependent transcription",
-      "Author Details": [
-        {
-          "M Buck": "Professor of Molecular Microbiology , Imperial College London"
-        }
-      ]
-    },
-    {
-      "Name": " rRNA (rrn) operon-engineered Bacillus subtilis as a feasible test organism for antibiotic discovery",
-      "Author Details": [
-        {
-          "K Yano": "National Institute of Genetics"
-        }
-      ]
-    },
-    {
-      "Name": " Bacterial RNA Polymerase-DNA Interaction—The Driving Force of Gene Expression and the Target for Drug Action",
-      "Author Details": [
-        {
-          "J Lee": "Professor of Geography, Kent State University"
-        }
-      ]
-    },
-    {
-      "Name": " Repression of RNA polymerase by the archaeo-viral regulator ORF145/RIP",
-      "Author Details": [
-        {
-          "C Sheppard": "Post-doc, UCL"
-        },
-        {
-          "F Blombach": "Postdoctoral Fellow, University College London"
-        }
-      ]
-    },
-    {
-      "Name": " New and old hot drug targets in tuberculosis",
-      "Author Details": [
-        {
-          "L Roberto Chiarelli": "Department of Biology and Biotechnology, University of Pavia"
-        },
-        {
-          "G Mori": "PostDoc Researcher, University of Pavia"
-        }
-      ]
-    },
-    {
-      "Name": " Strategies to discover novel antimicrobials to cope with emerging medical needs",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Regions 1.2 and 3.2 of the RNA polymerase σ subunit promote DNA melting and attenuate action of the antibiotic lipiarmycin",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " RNA polymerase motions during promoter melting",
-      "Author Details": [
-        {
-          "A Feklistov": "Research Associate, The Rockefeller University"
-        }
-      ]
-    },
-    {
-      "Name": " Synthesis of a Tiacumicin B Protected Aglycone",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Study of the Construction of the Tiacumicin B Aglycone",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Heterologous production of myxobacterial α-pyrone antibiotics in Myxococcus xanthus",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Antibiotics Targeting Bacterial RNA Polymerase",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Single-stranded DNA aptamers for functional probing of bacterial RNA polymerase",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Inhibitors of Bacterial Transcription are Compounds for Potent Antimicrobial Drugs",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Novel bacterial RNA polymerase inhibitors: Structure activity exploration and optimization of the Aryl-ureidothiophene-carboxylic acids",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Single-molecule fluorescence analysis of opening and closing of the RNA polymerase clamp",
-      "Author Details": [
-        {
-          "A Chakraborty": "Stanford University"
-        }
-      ]
-    },
-    {
-      "Name": " Multitargeted Flavonoid Inhibition of the Pathogenic Bacterium Staphylococcus aureus: A Proteomic Characterization",
-      "Author Details": [
-        {
-          "WA Elmasri": "Research Scientist"
-        }
-      ]
-    },
-    {
-      "Name": " Incidence, Molecular Characterization and Sensitivity to Buchholzia Coriacea Leaf Extract of Methicillin Resistant Staphylococcus Aureus Nasal Isolates From Tertiary …",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Biological Activities of Lasso Peptides and Structure–Activity Relationships",
-      "Author Details": [
-        {
-          "Y Li": "Head of Tourism Management, CAIC, Dhurakij Pundit University"
-        }
-      ]
-    },
-    {
-      "Name": " A Thermus phage protein inhibits host RNA polymerase by preventing template DNA strand loading during open promoter complex formation",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Fidaxomicin jams Mycobacterium tuberculosis RNA polymerase motions needed for initiation via RbpA contacts",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": "Analysis of the Pseudouridimycin Biosynthetic Pathway Provides Insights into the Formation of C-nucleoside Antibiotics",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": "The RNA polymerase clamp interconverts dynamically among three states and is stabilized in a partly closed state by ppGpp",
-      "Author Details": [
-        {
-          "R Ebright": "Board of Governors Professor of Chemistry and Chemical Biology, Rutgers University"
-        }
-      ]
-    },
-    {
-      "Name": " A case report of successful management of clostridium difficile colitis with antegrade Fidaxomicin through a mucous fistula obviating the need for subtotal …",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Novel small-molecule inhibitors of mycobacterial RNA polymerase",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Structural basis of transcription inhibition by the nucleoside-analog inhibitor thuringiensin",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Deciphering the impact of rpoB mutations on the gene expression profile of Mycobacterium tuberculosis",
-      "Author Details": [
-        "J Du Plessis"
-      ]
-    },
-    {
-      "Name": " Characterization of a Mutant RNA Polymerase in Bacteriophage T4 Prereplicative Transcription",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Frequency, Spectrum, and Nonzero Fitness",
-      "Author Details": [
-        "RH Ebright"
-      ]
-    },
-    {
-      "Name": " The use of Antibiotics for the Management of Severe Acute Malnutrition: A Review",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Overcoming and preventing bacterial resistance to antibiotics: the development and characterization of novel RNA polymerase and PqsD inhibitors",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Novel small-molecule inhibitors of mycobacterial RNAP",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Preclinical evaluation and molecular docking of 2, 5–di–tert–butyl–1, 4–benzoquinone (DTBBQ) from Streptomyces sp. VITVSK1 as a potent antibacterial agent",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Total Synthesis and SAR Investigations of Natural Products Inhibiting Bacterial RNA Polymerase",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Bluegenics: Bioactive Natural Products of Medicinal Relevance and Approaches to Their Diversification",
-      "Author Details": [
-        {
-          "RJM Goss": "Reader in Organic/Biomolecular Chemistry"
-        }
-      ]
-    },
-    {
-      "Name": " АНАЛИЗ ВОЗМОЖНОСТЕЙ МОДЕЛИРОВАНИЯ И ВЫЯВЛЕНИЯ НОВЫХ ФАРМАКОЛОГИЧЕСКИХ МИШЕНЕЙ",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " 抗生素新靶位的研究进展",
-      "Author Details": [
-        
-      ]
-    }
-  ],
-  "Inositol methyl tranferase from a halophytic wild rice, Porteresia coarctata Roxb.": [
-    {
-      "Name": " Drought, salt, and temperature stress-induced metabolic rearrangements and regulatory networks",
-      "Author Details": [
-        {
-          "J Krasensky": ""
-        },
-        {
-          "C Jonak": ""
-        }
-      ]
-    },
-    {
-      "Name": " ROS homeostasis in halophytes in the context of salinity stress tolerance",
-      "Author Details": [
-        {
-          "J Bose": "ARC–DECRA Fellow, Plant Energy Biology, School of Agriculture, Food and Wine, Univesity of Adelaide"
-        },
-        {
-          "A Rorigo-Moreno": ""
-        }
-      ]
-    },
-    {
-      "Name": " Osmotic stress‐induced phosphoinositide and inositol phosphate signalling in plants",
-      "Author Details": [
-        {
-          "JEM Vermeer": "SNSF Professor at University of Zürich"
-        },
-        {
-          "T Munnik": ""
-        }
-      ]
-    },
-    {
-      "Name": " Myo-inositol and beyond–emerging networks under stress",
-      "Author Details": [
-        {
-          "R Valluru": "CIMMYT"
-        },
-        {
-          "W van den Ende": ""
-        }
-      ]
-    },
-    {
-      "Name": " Insight into the salt tolerance factors of a wild halophytic rice, Porteresia coarctata: a physiological and proteomic approach",
-      "Author Details": [
-        {
-          "S Sengupta": "Post Doctoral Staff Scientist in LSUAgTech"
-        },
-        {
-          "Al Majumder": ""
-        }
-      ]
-    },
-    {
-      "Name": " Diversity, distribution and roles of osmoprotective compounds accumulated in halophytes under abiotic stress",
-      "Author Details": [
-        {
-          "C Abdelly": "Center of Biotechnology of Borj-Cedria, CBBC"
-        },
-        {
-          "A Bouchereau": "Professor of Plant Physiology, University of Rennes 1"
-        },
-        {
-          "I Slama": ""
-        },
-        {
-          "T Flowers": ""
-        }
-      ]
-    },
-    {
-      "Name": " Physiological aspects of raffinose family oligosaccharides in plants: protection against abiotic stress",
-      "Author Details": [
-        {
-          "AI ElSayed": "Zagazig University, Faculty of Agriculture, Egypt"
-        },
-        {
-          "Ms Rafudeen": ""
-        },
-        {
-          "D Golldack": ""
-        }
-      ]
-    },
-    {
-      "Name": " Genetic lipodystrophies",
-      "Author Details": [
-        {
-          "A Garg": "Assistant Professor, Department of Life Sciences, SNU"
-        }
-      ]
-    },
-    {
-      "Name": " Expression of a finger millet transcription factor, EcNAC1, in tobacco confers abiotic stress-tolerance",
-      "Author Details": [
-        {
-          "V Ramegowda": "Post-Doctoral Associate, University of Arkansas"
-        },
-        {
-          "M Senthil-Kumar": "National Institute of Plant Genome Research"
-        },
-        {
-          "KN Nataraja": ""
-        }
-      ]
-    },
-    {
-      "Name": " Plants in extreme environments: importance of protective compounds in stress tolerance",
-      "Author Details": [
-        {
-          "L Szabados": "Institute of Plant Biology, Biological Research Centre"
-        },
-        {
-          "H Kovács": " Hungarian Academy of Sciences"
-        },
-        {
-          "A Zilberstein": ""
-        }
-      ]
-    },
-    {
-      "Name": " Enhanced salt tolerance of transgenic tobacco plants by co-expression of PcINO1 and McIMT1 is accompanied by increased level of myo-inositol and methylated …",
-      "Author Details": [
-        {
-          "B Patra": " University of Kentucky"
-        },
-        {
-          "A Richter": " University of Vienna"
-        },
-        {
-          "S Ray": ""
-        },
-        {
-          "AL Majumder": ""
-        }
-      ]
-    },
-    {
-      "Name": " Porteresia coarctata (Roxb.) Tateoka, a wild rice: a potential model for studying salt‐stress biology in rice",
-      "Author Details": [
-        {
-          "S Sengupta": "Post Doctoral Staff Scientist in LSUAgTech"
-        },
-        {
-          "AL Majumder": ""
-        }
-      ]
-    },
-    {
-      "Name": " Are soluble carbohydrates ecologically relevant for salt tolerance in halophytes?",
-      "Author Details": [
-        {
-          "C Lull": "Universidad Politécnica de Valencia"
-        },
-        {
-          "A Lidón": "Universidad Politécnica de Valencia, Instituto de Ingeniería del Agua y Medio Ambiente"
-        },
-        {
-          "R Gill": ""
-        },
-        {
-          "M Boscaiu": ""
-        },
-        {
-          "I Bautistsa": ""
-        }
-      ]
-    },
-    {
-      "Name": " Proteomics, metabolomics, and ionomics perspectives of salinity tolerance in halophytes",
-      "Author Details": [
-        {
-          "PK Agarwal": "CSIR-Central Salt and Marine Chemicals Research Institute"
-        },
-        {
-          "A Kumari": ""
-        },
-        {
-          "P DAs": ""
-        },
-        {
-          "AK Parida": ""
-        }
-      ]
-    },
-    {
-      "Name": " Increased salt and drought tolerance by d-ononitol production in transgenic Arabidopsis thaliana",
-      "Author Details": [
-        {
-          "C Ahn": ""
-        },
-        {
-          "U Park": ""
-        },
-        {
-          "PB Park": ""
-        }
-      ]
-    },
-    {
-      "Name": " Inositol transport proteins",
-      "Author Details": [
-        {
-          "S Schneider": ""
-        }
-      ]
-    },
-    {
-      "Name": " Nodule carbohydrate metabolism and polyols involvement in the response of Medicago sativa to salt stress",
-      "Author Details": [
-        {
-          "F PAlma": ""
-        },
-        {
-          "NA Tejera": ""
-        },
-        {
-          "C Lluch": ""
-        }
-      ]
-    },
-    {
-      "Name": " Galactinol synthase across evolutionary diverse taxa: Functional preference for higher plants?",
-      "Author Details": [
-        {
-          "S Sengupta": "Post Doctoral Staff Scientist in LSUAgTech"
-        },
-        {
-          "S Mukherjee": "School of Natural Product Studies, Jadavpur University, Kolkata 700032, India"
-        },
-        {
-          "S Parween": "PhD Scholar"
-        }
-      ]
-    },
-    {
-      "Name": " Association of SNP Haplotypes of HKT Family Genes with Salt Tolerance in Indian Wild Rice Germplasm",
-      "Author Details": [
-        {
-          "B Singh": "Assistant Professor of History, Rayat College of Law,Affiliated to Panjab University, Chandigarh"
-        },
-        {
-          "K Panda": "Unknown affiliation"
-        },
-        {
-          "S Mishra": ""
-        },
-        {
-          "N Singh": ""
-        }
-      ]
-    },
-    {
-      "Name": " Salt tolerance mechanisms in salt tolerant grasses (STGs) and their prospects in cereal crop improvement",
-      "Author Details": [
-        {
-          "S Roy": "Professor, Université de Montréal"
-        },
-        {
-          "U Chakraborty": ""
-        }
-      ]
-    },
-    {
-      "Name": " D-chiro-Inositol affects accumulation of raffinose family oligosaccharides in developing embryos of Pisum sativum",
-      "Author Details": [
-        {
-          "LB Lahuta": ""
-        },
-        {
-          "T Dzik": ""
-        }
-      ]
-    },
-    {
-      "Name": " Grapevine in a Changing Environment: A Molecular and Ecophysiological Perspective",
-      "Author Details": [
-        {
-          "MM Chaves": "Professor Emeritus Instituto Superior Agronomia"
-        },
-        {
-          "S Delrot": "Professor of Plant Physiology, University of Bordeaux"
-        },
-        {
-          "HM Gil": ""
-        }
-      ]
-    },
-    {
-      "Name": " Manipulation of inositol metabolism for improved plant survival under stress: a “network engineering approach”",
-      "Author Details": [
-        {
-          "S Sengupta": "Post Doctoral Staff Scientist in LSUAgTech"
-        },
-        {
-          "S Mukherjee": "School of Natural Product Studies, Jadavpur University, "
-        },
-        {
-          "L Goswami": ""
-        }
-      ]
-    },
-    {
-      "Name": " Haplotype distribution and association of candidate genes with salt tolerance in Indian wild rice germplasm",
-      "Author Details": [
-        {
-          "P Misra": "Sam Higginbottom Institute of Agriculture, Technology & Sciences, Allahabad"
-        },
-        {
-          "NK Singh": "National Professor BP Pal Chair, National Research Centre on Plant Biotechnology, Pusa, New Delhi"
-        },
-        {
-          "S Mishra": ""
-        },
-        {
-          "B Singh": ""
-        },
-        {
-          "V Rai": ""
-        }
-      ]
-    },
-    {
-      "Name": " A walk on the wild side: Oryza species as source for rice abiotic stress tolerance",
-      "Author Details": [
-        {
-          "RA Sperotto": "Universidade do Vale do Taquari "
-        },
-        {
-          "PK Menguer": ""
-        }
-      ]
-    },
-    {
-      "Name": " The inositol monophosphatase All2917 (IMPA1) is involved in osmotic adaptation in Anabaena sp. PCC7120",
-      "Author Details": [
-        {
-          "F K Wang": ""
-        },
-        {
-          "A Latifi": ""
-        },
-        {
-          "WL Chen": ""
-        }
-      ]
-    },
-    {
-      "Name": " Translational research in agricultural biology—enhancing crop resistivity against environmental stress alongside nutritional quality",
-      "Author Details": [
-        {
-          "AK Mattoo": "Unknown affiliation "
-        }
-      ]
-    },
-    {
-      "Name": " Cross-generic studies with rice indicate that ion homeostasis and antioxidant defense is associated with superior salinity tolerance in Cynodon dactylon (L …",
-      "Author Details": [
-        {
-          "S Roy": "IIM Udaipur "
-        }
-      ]
-    },
-    {
-      "Name": " Signal Perception and Mechanism of Salt Toxicity/Tolerance in Photosynthetic Organisms: Cyanobacteria to Plants",
-      "Author Details": [
-        {
-          "C Agrawal": ""
-        },
-        {
-          "S Sen": ""
-        },
-        {
-          "A Chatterjee": ""
-        },
-        {
-          "S Rai": ""
-        },
-        {
-          "S Yadav": ""
-        }
-      ]
-    },
-    {
-      "Name": " Importance of protective compounds in stress tolerance",
-      "Author Details": [
-        {
-          "A Saglam": ""
-        },
-        {
-          "S Jen": ""
-        }
-      ]
-    },
-    {
-      "Name": " Overexpression of the OsIMP gene increases the accumulation of inositol and confers enhanced cold tolerance in tobacco through modulation of the …",
-      "Author Details": [
-        {
-          "RX Zhang": ""
-        },
-        {
-          "LJ Qin": ""
-        },
-        {
-          "DG Zhao": ""
-        }
-      ]
-    },
-    {
-      "Name": " Molecular breeding for enhancing abiotic stress tolerance using halophytes",
-      "Author Details": [
-        {
-          "S George": "Principal Scientist, MSSRF"
-        },
-        {
-          "A Parida": ""
-        },
-        {
-          "K Kavitha": ""
-        }
-      ]
-    },
-    {
-      "Name": " Physiological and Metabolic Responses to Water-deficit and Heat Stress of Virginia-type Peanut Cultivars and Breeding Lines.",
-      "Author Details": [
-        {
-          "D Singh": "Ph.D. Student, Kansas State University"
-        }
-      ]
-    },
-    {
-      "Name": " Metabolite profiling at the cellular and subcellular level reveals metabolites associated with salinity tolerance in sugar beet",
-      "Author Details": [
-        {
-          "MS Hossain": "Sylhet Agricultural University"
-        },
-        {
-          "M Persicke": "Dr."
-        },
-        {
-          "AI ElSayed": "Zagazig University,"
-        }
-      ]
-    },
-    {
-      "Name": " Osmolyte dynamics: new strategies for crop tolerance to abiotic stress signals",
-      "Author Details": [
-        {
-          "AK Thukral": "Guru Nanak Dev University, Amritsar, Punjab, 143005, India"
-        },
-        {
-          "R Sharma": ""
-        },
-        {
-          "R Bhardwaj": ""
-        },
-        {
-          "N Handa": ""
-        }
-      ]
-    },
-    {
-      "Name": " 干旱, 盐分和温度胁迫诱导的植物代谢改变",
-      "Author Details": [
-        {
-          "刘春 ": ""
-        },
-        {
-          "曹丽敏": ""
-        },
-        {
-          "生物技术通报": ""
-        }
-      ]
-    },
-    {
-      "Name": " Metabolizm węglowodanów jako jeden ze składników mechanizmów tolerancji na stresy abiotyczne u roślin",
-      "Author Details": [
-        {
-          "S Zielinksa": ""
-        }
-      ]
-    },
-    {
-      "Name": " Plant Metabolites Expression",
-      "Author Details": [
-        {
-          "HA Hashem": "Ain Shams University."
-        },
-        {
-          "RA Hassanein": ""
-        }
-      ]
-    },
-    {
-      "Name": " Soni Chowrasia, Hukam Chand Rawal, Abhishek Mazumder, Kishor Gaikwad, Tilak Raj Sharma",
-      "Author Details": [
-        {
-          "NK Singh": ""
-        },
-        {
-          "TK Mondal": ""
-        }
-      ]
-    },
-    {
-      "Name": " The Arabidopsis GolS1 promotor as a potential biosensor for heat stress and fungal infection?",
-      "Author Details": [
-        {
-          "HC Janse van Rensburg": "KU Leuven"
-        }
-      ]
-    },
-    {
-      "Name": " The Possible Overlap Between Salinity and Mechanical Challenges in Porteresia coarctata",
-      "Author Details": [
-        {
-          "S Sengugpta": ""
-        }
-      ]
-    },
-    {
-      "Name": "  Myo-inositol 1-phosphate synthase–the chosen path of evolution",
-      "Author Details": [
-        {
-          "A Hazra": "Indian Statistical Institute"
-        },
-        {
-          "P Nandy": ""
-        }
-      ]
-    },
-    {
-      "Name": "Screening of salt-tolerance potential of some native forage grasses from the eastern part of Terai-Duar grasslands in India",
-      "Author Details": [
-        {
-          "S Roy": ""
-        },
-        {
-          "U Chakraborty": ""
-        }
-      ]
-    },
-    {
-      "Name": " The Transcriptional Modulation of Inositols and Raffinose Family Oligosaccharides Pathways in Plants—An (A) Biotic Stress Perspective",
-      "Author Details": [
-        {
-          "JRCF Neto": ""
-        },
-        {
-          "AC de Melo Souza": ""
-        }
-      ]
-    },
-    {
-      "Name": " Functional roles of raffinose family oligosaccharides: Arabidopsis case studies in seed physiology, biotic stress and novel carbohydrate engineering",
-      "Author Details": [
-        {
-          "B Loedolff": "Stellenbosch University"
-        }
-      ]
-    },
-    {
-      "Name": " Effects of a supernatant from Aspergillus oryzae culture on the regulation of crassulacean acid metabolism (CAM) and pinitol biosynthesis in the common ice …",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " (66 (2): 87-93) Mechanisms of Salt Tolerance in Rice Plants: Cell Wall-Related Genes and Expansins ",
-      "Author Details": [
-        {
-          "S Saito": ""
-        },
-        {
-          "K Yamano": ""
-        },
-        {
-          "H Ueda": ""
-        },
-        {
-          "Y Tani": ""
-        },
-        {
-          "M hayakawa": ""
-        }
-      ]
-    },
-    {
-      "Name": "Rice intermediate filament, OsIF, stabilizes photosynthetic machinery and yield under salinity and heat stress ",
-      "Author Details": [
-        {
-          "SL Singla-Pareek": "International Centre for Genetic Engineering and Biotechnology"
-        },
-        {
-          "A Pareek": "Jawaharlal Nehru University & University of Western Australia "
-        }
-      ]
-    },
-    {
-      "Name": " Metabolic rearrangements in grapevine response to salt stress",
-      "Author Details": [
-        {
-          "A Conde": "Post-Doctoral Researcher, University of Minho"
-        },
-        {
-          "R Breia": "Unknown affiliation"
-        },
-        {
-          "J Moutinho-Pereira": "Professor Auxiliar de Fisiologia Vegetal, Universidade de Trás-os-Montes e Alto Douro"
-        }
-      ]
-    },
-    {
-      "Name": " Regulation of Cell Volume by Osmolytes",
-      "Author Details": [
-        {
-          "YS Wijayasinghe": "Senior Lecturer, Faculty of Medicine, University of Kelaniya"
-        },
-        {
-          "A Tyagi": ""
-        },
-        {
-          "Nk Poddar": "Invertis University, Bareilly, UP"
-        }
-      ]
-    },
-    {
-      "Name": "The role of Ca2+ dependent protein kinase 3 in Arabidopsis thaliana during salt stress acclimation",
-      "Author Details": [
-        {
-          "B Wurzinger": ""
-        }
-      ]
-    },
-    {
-      "Name": " [HTML] Rice intermediate filament, OsIF, stabilizes photosynthetic machinery and yield under salinity and heat stress",
-      "Author Details": [
-        {
-          "N Soda": ""
-        },
-        {
-          "BK Gupta": ""
-        },
-        {
-          "K Anwar": ""
-        },
-        {
-          "A Sharan": ""
-        }
-      ]
-    },
-    {
-      "Name": "转 ACO2 基因优质棉生长特性及其对田间昆虫群落的影响",
-      "Author Details": [
-        
-      ]
-    }
-  ],
-  "Porteresia coarctata (Roxb.) Tateoka, a wild rice: a potential model for studying salt‐stress": [
-    {
-      "Name": " ROS homeostasis in halophytes in the context of salinity stress tolerance",
-      "Author Details": [
-        {
-          "J Bose": "ARC–DECRA Fellow, Plant Energy Biology, School of Agriculture, Food and Wine, Univesity of Adelaide"
-        }
-      ]
-    },
-    {
-      "Name": " Whole genome wide expression profiles of Vitis amurensis grape responding to downy mildew by using Solexa sequencing technology",
-      "Author Details": [
-        {
-          "Y Zhang": "National University of Singapore"
-        },
-        {
-          "H Huang": "Associate Professor, University of South Florida"
-        }
-      ]
-    },
-    {
-      "Name": " Protein contribution to plant salinity response and tolerance acquisition",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Coordination of leaf photosynthesis, transpiration, and structural traits in rice and wild relatives (genus Oryza)",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Genetic lipodystrophies",
-      "Author Details": [
-        {
-          "A Garg": "Assistant Professor, Department of Life Sciences, SNU"
-        }
-      ]
-    },
-    {
-      "Name": " Rapid regulation of the plasma membrane H+-ATPase activity is essential to salinity tolerance in two halophyte species, Atriplex lentiformis and Chenopodium …",
-      "Author Details": [
-        {
-          "J Bose": "ARC–DECRA Fellow, Plant Energy Biology, School of Agriculture, Food and Wine, Univesity of Adelaide"
-        }
-      ]
-    },
-    {
-      "Name": " Proteomics, metabolomics, and ionomics perspectives of salinity tolerance in halophytes",
-      "Author Details": [
-        {
-          "PK Agarwal": "CSIR-Central Salt and Marine Chemicals Research Institute"
-        }
-      ]
-    },
-    {
-      "Name": " Could abiotic stress tolerance in wild relatives of rice be used to improve Oryza sativa?",
-      "Author Details": [
-        {
-          "BJ Atwell": "Macquarie University"
-        },
-        {
-          "AP Scafaro": "Postdoctoral Scientist, Bayer CropScience"
-        }
-      ]
-    },
-    {
-      "Name": " Plant proteome responses to salinity stress–comparison of glycophytes and halophytes",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Salt-tolerant genes from halophytes are potential key players of salt tolerance in glycophytes",
-      "Author Details": [
-        {
-          "MC Reddy": "Yogi Vemana University"
-        }
-      ]
-    },
-    {
-      "Name": " Back into the wild—Apply untapped genetic diversity of wild relatives for crop improvement",
-      "Author Details": [
-        {
-          "H Zhang": "University of North Carolina at Charlotte"
-        },
-        {
-          "N Mittal": "Univerisity of North Carolina at Charlotte"
-        },
-        {
-          "O Barazani": "Institute of Plant Sciences, Agricultural Research Organization, Israel"
-        }
-      ]
-    },
-    {
-      "Name": " True mangrove species of Sundarbans delta, West Bengal, eastern India",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Salt tolerance mechanisms in salt tolerant grasses (STGs) and their prospects in cereal crop improvement",
-      "Author Details": [
-        {
-          "S Roy": "Professor, Université de Montréa"
-        }
-      ]
-    },
-    {
-      "Name": " Ectopic expression of myo-inositol 3-phosphate synthase induces a wide range of metabolic changes and confers salt tolerance in rice",
-      "Author Details": [
-        {
-          "M Kusano": "Research Scientist of Plant Systems Biology, RIKEN Plant Science Center"
-        },
-        {
-          "K Saito": "Professor, Pharmaceutical Sciences, Chiba University, Group Director of RIKEN CSRS"
-        }
-      ]
-    },
-    {
-      "Name": " Improvement of salinity stress tolerance in rice: challenges and opportunities",
-      "Author Details": [
-        {
-          "B Williams": "Vice Chancellors Research Fellow, Queensland University of Technology"
-        }
-      ]
-    },
-    {
-      "Name": " Response of transgenic rice at germination traits under salt and alkali stress",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Assessment of genetic diversity in salt-tolerant rice and its wild relatives for ten SSR loci and one allele mining primer of salT gene located on 1st chromosome",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Anatomical and physiological adaptations of mangroves",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Increasing Salinity Tolerance crop/cropping salinity tolerance of Crops crop/cropping",
-      "Author Details": [
-        {
-          "M Tester": "KAUST, Saudi Arabia"
-        }
-      ]
-    },
-    {
-      "Name": " ROS Production, Scavenging, and Signaling under Salinity Stress",
-      "Author Details": [
-        {
-          "J Bose": "ARC–DECRA Fellow, Plant Energy Biology, School of Agriculture, Food and Wine, Univesity of Adelaide"
-        },
-        {
-          "M Zhou": "University of Tasmania"
-        },
-        {
-          "S Shabala": "University of Tasmania"
-        }
-      ]
-    },
-    {
-      "Name": " Understanding the Commoneome Operative in Plants in Response to Various Abiotic Stresses",
-      "Author Details": [
-        {
-          "HR Kushwaha": "Jawaharlal Nehru University"
-        },
-        {
-          "SL Singla-Pareek": "International Centre for Genetic Engineering and Biotechnology"
-        }
-      ]
-    },
-    {
-      "Name": " Role of polyphenols as antioxidants in native species from argentina under drought and salinization",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " A walk on the wild side: Oryza species as source for rice abiotic stress tolerance",
-      "Author Details": [
-        {
-          "RA Sperotto": "Universidade do Vale do Taquari - UNIVATES"
-        }
-      ]
-    },
-    {
-      "Name": " The pepper CaOSR1 protein regulates the osmotic stress response via abscisic acid signaling",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Salinity tolerance mechanism of economic halophytes from physiological to molecular hierarchy for improving food quality",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Bypass flow and sodium transport in rice (Oryza sativa L.)",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Effect of endophyte infection on chlorophyll a fluorescence in salinity stressed rice",
-      "Author Details": [
-        {
-          "LH Zhang": "Michigan State University"
-        }
-      ]
-    },
-    {
-      "Name": " Salinity tolerance in plants",
-      "Author Details": [
-        {
-          "MR Hossain": "Associate Professor, Department of Genetics & Plant Breeding, Bangladesh Agricultural University"
-        },
-        {
-          "G Sharma": "Bhabha Atomic Research Centre"
-        }
-      ]
-    },
-    {
-      "Name": " Halophytes in biosaline agriculture: Mechanism, utilization, and value addition",
-      "Author Details": [
-        {
-          "GC Nikalje": "R. K. Talreja College, Ulhasnagar"
-        },
-        {
-          "AK Srivastava": "Bhabha Atomic Research Centre"
-        },
-        {
-          "GK Pandey": "Professor of Plant Molecular Biology, University of Delhi South Campus"
-        }
-      ]
-    },
-    {
-      "Name": " Oryza brachyantha A. Chev. et Roehr",
-      "Author Details": [
-        {
-          "FK Ricachenevsky": "Universidade Federal de Santa Maria"
-        }
-      ]
-    }
-  ],
-  "Osmolyte regulation in abiotic stress": [
-    {
-      "Name": " Physiological aspects of raffinose family oligosaccharides in plants: protection against abiotic stress",
-      "Author Details": [
-        {
-          "AI ElSayed": "Zagazig University, Faculty of Agriculture, Egypt"
-        }
-      ]
-    },
-    {
-      "Name": " RhNAC3, a stress‐associated NAC transcription factor, has a role in dehydration tolerance through regulating osmotic stress‐related genes in rose petals",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Effects of lead stress on anti-oxidative enzymes and stress-related hormones in seedlings of Excoecaria agallocha Linn",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Differences in lead tolerance between Kandelia obovata and Acanthus ilicifolius seedlings under varying treatment times",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " GLYCOLATE OXIDASE3, a glycolate oxidase homolog of yeast L-lactate cytochrome c oxidoreductase, supports L-lactate oxidation in roots of Arabidopsis",
-      "Author Details": [
-        {
-          "MKM Engqvist": "Chalmers University of Technology"
-        }
-      ]
-    },
-    {
-      "Name": " Habitat phenotyping of two sub-Antarctic flies by metabolic fingerprinting: evidence for a species outside its home?",
-      "Author Details": [
-        {
-          "M Laparie": "Forest Zoology Research Unit, France"
-        },
-        {
-          "P Vernon": " University of Rennes 1"
-        }
-      ]
-    },
-    {
-      "Name": " Anatomical and physiological adaptations of mangroves",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Plant-Microbe Interactions in Adaptation of Agricultural Crops to Abiotic Stress Conditions",
-      "Author Details": [
-        {
-          "H Etesami": "Department of Soil Science, University of Thehran, Iran"
-        },
-        {
-          "GA Beattie": "Professor of Plant Pathology & Microbiology, Iowa State University"
-        }
-      ]
-    },
-    {
-      "Name": " A balanced JA/ABA status may correlate with adaptation to osmotic stress in Vitis cells",
-      "Author Details": [
-        {
-          "A Ismail": "Damanhour University"
-        }
-      ]
-    },
-    {
-      "Name": " Mécanismes et stratégies cellulaires de tolérance à la salinité (NaCl) chez les plantes",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " The role of selenium in amelioration of heat-induced oxidative damage in cucumber under high temperature stress",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Heavy metal detoxification mechanisms in halophytes: an overview",
-      "Author Details": [
-        {
-          "JT Puthur": "University of Calicut"
-        }
-      ]
-    },
-    {
-      "Name": " Importance of protective compounds in stress tolerance",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Effet de la salinité sur les paramètres morphophysiologiques de deux variétés de bananier (Musa acuminata L)",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Asimilación de amonio y acumulación de osmolitos nitrogenados en condiciones de déficit hídrico en la leguminosa modelo Lotus japonicus",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Abiotic stress tolerance of the Brassica oilseeds.",
-      "Author Details": [
-        {
-          "IA Parkin": "Unknown Affiliation"
-        }
-      ]
-    },
-    {
-      "Name": " Effects of watering regime, organic manuring and mycorrhizal inoculation on the growth and development of Shea butter (Vitellaria paradoxa CF Gaertn) …",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Salinity response in chloroplasts: insights from gene characterization",
-      "Author Details": [
-        {
-          "S Chen": "Professor of Biology, Faculty Director of Proteomics"
-        }
-      ]
-    },
-    {
-      "Name": " Brassica Crops: Improving Abiotic Stress Tolerance–Current Status and Prospects",
-      "Author Details": [
-        {
-          "IA Parkin": "Unknown Affiliation"
-        }
-      ]
-    },
-    {
-      "Name": " Mécanismes et stratégies cellulaires de tolérance à la salinité (NaCl) chez les plantes",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Optimization of a biostimulant formulation",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Methods for the identification of genes involved in abiotic stress tolerance in plants",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Large Differences in Gene Expression Responses to Drought and Heat Stress between Elite Barley Cultivar Scarlett and a Spanish Landrace",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Effects of shading, irrigation and mycorrhizal inoculation on growth and development of oil palm Elaeis guineensis Jacq.(Magnoliophyta: Arecaceae) seedlings …",
-      "Author Details": [
-        
-      ]
-    },
-    {
-      "Name": " Modulation of Protein Aggregation/Fibrillation by Osmolytes",
-      "Author Details": [
-        {
-          "LR Singh": "Dr. B R Ambedkar Center for Biomedical Research, University of Delhi, Delhi"
-        },
-        {
-          "TA Dar": "Clinical Biochemistry, University of Kashmir, srinagar"
-        }
-      ]
-    },
-    {
-      "Name": " Estresse térmico no conteudo de prolina de plântulas de guandu oriundas de sementes tratadas com poliaminas",
-      "Author Details": [
-        {
-          "J Silva": ""
+  "sonali sengupta": [
+    {
+      "New target for inhibition of bacterial RNA polymerase: ‘switch region’": [
+        {
+          "Name": " Antibiotics and bacterial resistance in the 21st century",
+          "Author Details": [
+            {
+              "Y Tor": "University of California, San Diego"
+            },
+            {
+              "RJ Fair": ""
+            }
+          ]
+        },
+        {
+          "Name": " Opening and closing of the bacterial RNA polymerase clamp",
+          "Author Details": [
+            {
+              "A Chakraborty": "Stanford University"
+            },
+            {
+              " D Wang": ""
+            },
+            {
+              " YW Ebright": ""
+            },
+            {
+              " Y Korlann": ""
+            }
+          ]
+        },
+        {
+          "Name": " How low can you go? Physical production mechanism of elephant infrasonic vocalizations",
+          "Author Details": [
+            {
+              "AS Stoeger": "PostDoc at the Department of Cognitive Biology, University of Vienna"
+            },
+            {
+              "CT Herbst": ""
+            },
+            {
+              "R Frey": ""
+            },
+            {
+              "J Lohscheller": ""
+            }
+          ]
+        },
+        {
+          "Name": " Recent advances in the understanding of antibiotic resistance in Clostridium difficile infection",
+          "Author Details": [
+            {
+              "P Spigaglia": ""
+            }
+          ]
+        },
+        {
+          "Name": " Challenges and future prospects of antibiotic therapy: from peptides to phages utilization",
+          "Author Details": [
+            {
+              "A Roy": "Assistant Professor,Chemical Engineering, BIT Mesra"
+            },
+            {
+              "SM Mandal": ""
+            },
+            {
+              " AK Ghosh": ""
+            },
+            {
+              "TK Hazra": ""
+            }
+          ]
+        },
+        {
+          "Name": " Characterizations of clinical isolates of Clostridium difficile by toxin genotypes and by susceptibility to 12 antimicrobial agents, including fidaxomicin (OPT-80) and …",
+          "Author Details": [
+            {
+              "CH Liao": "Far Eastern Memorial Hospital, Taipei, Taiwan"
+            },
+            {
+              "WC Ko": "Unknown affiliation"
+            },
+            {
+              "JJ Lu": ""
+            },
+            {
+              " PR Hsueh": ""
+            }
+          ]
+        },
+        {
+          "Name": " Investigations of the mode of action and resistance development of cadazolid, a new antibiotic for treatment of Clostridium difficile infections",
+          "Author Details": [
+            {
+              "HH Locher": ""
+            },
+            {
+              " P Caspers": ""
+            },
+            {
+              "T Bruyère": ""
+            }
+          ]
+        },
+        {
+          "Name": " Antibiotics from myxobacteria",
+          "Author Details": [
+            {
+              "GM König": "Professor for Pharmaceutical Biology"
+            },
+            {
+              "TF Schäberle": ""
+            },
+            {
+              " F Lohr": ""
+            },
+            {
+              " A Schmitz": ""
+            }
+          ]
+        },
+        {
+          "Name": " Access to Skipped Polyene Macrolides through Ring‐Closing Metathesis: Total Synthesis of the RNA Polymerase Inhibitor Ripostatin B",
+          "Author Details": [
+            {
+              "P Winter": ""
+            },
+            {
+              "W Hiller": ""
+            },
+            {
+              "M Christmann": ""
+            }
+          ]
+        },
+        {
+          "Name": " In vitro selection, via serial passage, of Clostridium difficile mutants with reduced susceptibility to fidaxomicin or vancomycin",
+          "Author Details": [
+            {
+              "JA Leeds": ""
+            },
+            {
+              " M Sachdeva": ""
+            },
+            {
+              " S Mullin": ""
+            }
+          ]
+        },
+        {
+          "Name": " Fidaxomicin in Clostridium difficile infection: latest evidence and clinical guidance",
+          "Author Details": [
+            {
+              "K Mullane": ""
+            }
+          ]
+        },
+        {
+          "Name": " Transcription inhibition by the depsipeptide antibiotic salinamide A",
+          "Author Details": [
+            {
+              "D Degen": ""
+            },
+            {
+              "Y Feng": "Zhejiang University"
+            },
+            {
+              "Y Zhang": "Institute of Plant Physiology and Ecology, Shanghai Institute for Biological Sciences, CAS"
+            }
+          ]
+        },
+        {
+          "Name": " Assembly and clustering of natural antibiotics guides target identification",
+          "Author Details": [
+            {
+              "CW Johnston": "Massachusetts Institute of Technology"
+            },
+            {
+              "MA Skinnider": "University of British Columbia"
+            },
+            {
+              "CA Dejong": ""
+            }
+          ]
+        },
+        {
+          "Name": " GE23077 binds to the RNA polymerase 'i'and 'i+ 1'sites and prevents the binding of initiating nucleotides",
+          "Author Details": [
+            {
+              "Y Zhang": "Institute of Plant Physiology and Ecology, Shanghai Institute for Biological Sciences, CAS"
+            },
+            {
+              "E Sineva": "Research Scientist, Pebble Labs, New Mexico Consortium"
+            }
+          ]
+        },
+        {
+          "Name": " Total synthesis of the bacterial RNA polymerase inhibitor ripostatin B",
+          "Author Details": [
+            {
+              "F Glaus": ""
+            },
+            {
+              " KH Altmann": ""
+            }
+          ]
+        },
+        {
+          "Name": " Novel rapidly diversifiable antimicrobial RNA polymerase switch region inhibitors with confirmed mode of action in Haemophilus influenzae",
+          "Author Details": [
+            {
+              "ET Buurman": ""
+            },
+            {
+              " MA Foulk": ""
+            },
+            {
+              " N Gao": ""
+            },
+            {
+              " VA Laganas": ""
+            }
+          ]
+        },
+        {
+          "Name": " Novel small molecule inhibitors targeting the “switch region” of bacterial RNAP: structure-based optimization of a virtual screening hit",
+          "Author Details": [
+            {
+              "JH Sahner": ""
+            },
+            {
+              " M Groh": ""
+            },
+            {
+              " M Negri": ""
+            },
+            {
+              " J Haupenthal": ""
+            }
+          ]
+        },
+        {
+          "Name": " TFE and Spt4/5 open and close the RNA polymerase clamp during the transcription cycle",
+          "Author Details": [
+            {
+              "S Schulz": ""
+            },
+            {
+              " A Gietl": ""
+            },
+            {
+              "K Smollett": "MRC - University of Glasgow Centre for Virus Research"
+            }
+          ]
+        },
+        {
+          "Name": " From natural product to marketed drug: the tiacumicin odyssey",
+          "Author Details": [
+            {
+              "W Erb": ""
+            },
+            {
+              " J Zhu": ""
+            }
+          ]
+        },
+        {
+          "Name": " Natural products from myxobacteria: novel metabolites and bioactivities",
+          "Author Details": [
+            {
+              "AA Fayad": "Instructor at American University of Beirut"
+            }
+          ]
+        },
+        {
+          "Name": " New antibiotics from Nature's chemical inventory",
+          "Author Details": [
+            {
+              "TA Wencewicz ": ""
+            }
+          ]
+        },
+        {
+          "Name": " Antibiotics from predatory bacteria",
+          "Author Details": [
+            {
+              "J Korp": ""
+            },
+            {
+              "MSV Gurovic": ""
+            },
+            {
+              "M Nett": ""
+            }
+          ]
+        },
+        {
+          "Name": " Bacterial transcription as a target for antibacterial drug development",
+          "Author Details": [
+            {
+              "C Ma": "Hong Kong Polytechnic University"
+            }
+          ]
+        },
+        {
+          "Name": " Characterization of flavonol inhibition of DnaB helicase: real-time monitoring, structural modeling, and proposed mechanism",
+          "Author Details": [
+            {
+              "HH Lin": ""
+            },
+            {
+              " CY Huang": ""
+            }
+          ]
+        },
+        {
+          "Name": " Frequency, spectrum, and nonzero fitness costs of resistance to myxopyronin in Staphylococcus aureus",
+          "Author Details": [
+            {
+              "A Srivastava": ""
+            },
+            {
+              " D Degen": ""
+            },
+            {
+              " YW Ebright": ""
+            }
+          ]
+        },
+        {
+          "Name": " Salinamide F, new depsipeptide antibiotic and inhibitor of bacterial RNA polymerase from a marine-derived Streptomyces sp.",
+          "Author Details": [
+            {
+              "HM Hassan": "Assistant professor, College of Pharmacy, Beni Suef University and Nahda university beni-suef"
+            },
+            {
+              "RH Ebright": "Board of Governors Professor of Chemistry and Chemical Biology, Rutgers University"
+            }
+          ]
+        },
+        {
+          "Name": " Emerging therapies for Clostridium difficile infection–focus on fidaxomicin",
+          "Author Details": [
+            {
+              "F Chaparro-Rojas": ""
+            },
+            {
+              "KM Mullane": ""
+            }
+          ]
+        },
+        {
+          "Name": " Elucidation of DnaE as the antibacterial target of the natural product, nargenicin",
+          "Author Details": [
+            {
+              "RE Painter": ""
+            },
+            {
+              " GC Adam": ""
+            },
+            {
+              " M Arocho": ""
+            },
+            {
+              " E DiNunzio": ""
+            }
+          ]
+        },
+        {
+          "Name": " Expanding the scaffold for bacterial RNA polymerase inhibitors: design, synthesis and structure–activity relationships of ureido-heterocyclic-carboxylic acids",
+          "Author Details": [
+            {
+              "WAM Elgaher": ""
+            },
+            {
+              " M Fruth": ""
+            },
+            {
+              " M Groh": ""
+            },
+            {
+              " J Haupenthal": ""
+            }
+          ]
+        },
+        {
+          "Name": " Archaeology of RNA polymerase: factor swapping during the transcription cycle",
+          "Author Details": [
+            {
+              "F Blombach": "Postdoctoral Fellow, University College London"
+            }
+          ]
+        },
+        {
+          "Name": " Clostridium difficile infection in diabetes",
+          "Author Details": [
+            {
+              "HQ Qu": "McGill University Health Centre"
+            }
+          ]
+        },
+        {
+          "Name": " CBR antimicrobials alter coupling between the bridge helix and the β subunit in RNA polymerase",
+          "Author Details": [
+            {
+              "AM Malinen": "Department of Physics, University of Oxford / Department of Biochemistry, University of Turku"
+            }
+          ]
+        },
+        {
+          "Name": " Advanced Mutasynthesis Studies on the Natural α‐Pyrone Antibiotic Myxopyronin from Myxococcus fulvus",
+          "Author Details": [
+            {
+              "JH Sahner": ""
+            },
+            {
+              " H Sucipto": ""
+            },
+            {
+              " SC Wenzel": ""
+            },
+            {
+              " M Groh": ""
+            }
+          ]
+        },
+        {
+          "Name": " X-ray Crystal Structures of Escherichia coli RNA Polymerase with Switch Region Binding Inhibitors Enable Rational Design of Squaramides with an …",
+          "Author Details": [
+            {
+              "V Molodtsov": ""
+            },
+            {
+              " PR Fleming": ""
+            },
+            {
+              " CJ Eyermann": ""
+            }
+          ]
+        },
+        {
+          "Name": " Antibacterial nucleoside-analog inhibitor of bacterial RNA polymerase",
+          "Author Details": [
+            {
+              "SI Maffioli": "Naicons srl"
+            },
+            {
+              "Y Zhang": "Institute of Plant Physiology and Ecology, Shanghai Institute for Biological Sciences, CAS"
+            },
+            {
+              "T Carzaniga": "Università degli Studi di Milano Dipartimento di biotecnologie mediche e medicina traslazionale"
+            }
+          ]
+        },
+        {
+          "Name": " Targeting transcription factor binding to DNA by competing with DNA binders as an approach for controlling gene expression",
+          "Author Details": [
+            {
+              "M Amine Bouhlel": " University of Lille North of France"
+            }
+          ]
+        },
+        {
+          "Name": " Key targets and relevant inhibitors for the drug discovery of tuberculosis",
+          "Author Details": [
+            {
+              "Z Xu": "Shanghai Institute of Materia Medica, Chinese Academy of Sciences"
+            }
+          ]
+        },
+        {
+          "Name": " C-terminal domain swapping of SSB changes the size of the ssDNA binding site",
+          "Author Details": [
+            {
+              "YH Huang": ""
+            },
+            {
+              " CY Huang": ""
+            }
+          ]
+        },
+        {
+          "Name": " Binding mode characterization of novel RNA polymerase inhibitors using a combined biochemical and NMR approach",
+          "Author Details": [
+            {
+              "M Fruth": ""
+            },
+            {
+              " A Plaza": ""
+            },
+            {
+              "S Hinsberger": ""
+            },
+            {
+              " JH Sahner": ""
+            }
+          ]
+        },
+        {
+          "Name": " Synthesis and evaluation of novel analogues of ripostatins",
+          "Author Details": [
+            {
+              "RH Ebright": "Board of Governors Professor of Chemistry and Chemical Biology, Rutgers University"
+            }
+          ]
+        },
+        {
+          "Name": " Structural basis of Mycobacterium tuberculosis transcription and transcription inhibition",
+          "Author Details": [
+            
+          ]
+        },
+        {
+          "Name": " Structural basis of transcription inhibition by CBR hydroxamidines and CBR pyrazoles",
+          "Author Details": [
+            {
+              "Y Feng": "Zhejiang University"
+            },
+            {
+              "Y Zhang": "Professor of Molecular Microbiology , Imperial College London"
+            }
+          ]
+        },
+        {
+          "Name": " Discovery and structure-based optimization of 2-ureidothiophene-3-carboxylic acids as dual bacterial RNA polymerase and viral reverse transcriptase inhibitors",
+          "Author Details": [
+            
+          ]
+        },
+        {
+          "Name": " A dual switch controls bacterial enhancer-dependent transcription",
+          "Author Details": [
+            {
+              "M Buck": "Professor of Molecular Microbiology , Imperial College London"
+            }
+          ]
+        },
+        {
+          "Name": " rRNA (rrn) operon-engineered Bacillus subtilis as a feasible test organism for antibiotic discovery",
+          "Author Details": [
+            {
+              "K Yano": "National Institute of Genetics"
+            }
+          ]
+        },
+        {
+          "Name": " Bacterial RNA Polymerase-DNA Interaction—The Driving Force of Gene Expression and the Target for Drug Action",
+          "Author Details": [
+            {
+              "J Lee": "Professor of Geography, Kent State University"
+            }
+          ]
+        },
+        {
+          "Name": " Repression of RNA polymerase by the archaeo-viral regulator ORF145/RIP",
+          "Author Details": [
+            {
+              "C Sheppard": "Post-doc, UCL"
+            },
+            {
+              "F Blombach": "Postdoctoral Fellow, University College London"
+            }
+          ]
+        },
+        {
+          "Name": " New and old hot drug targets in tuberculosis",
+          "Author Details": [
+            {
+              "L Roberto Chiarelli": "Department of Biology and Biotechnology, University of Pavia"
+            },
+            {
+              "G Mori": "PostDoc Researcher, University of Pavia"
+            }
+          ]
+        },
+        {
+          "Name": " Strategies to discover novel antimicrobials to cope with emerging medical needs",
+          "Author Details": [
+            
+          ]
+        },
+        {
+          "Name": " Regions 1.2 and 3.2 of the RNA polymerase σ subunit promote DNA melting and attenuate action of the antibiotic lipiarmycin",
+          "Author Details": [
+            
+          ]
+        },
+        {
+          "Name": " RNA polymerase motions during promoter melting",
+          "Author Details": [
+            {
+              "A Feklistov": "Research Associate, The Rockefeller University"
+            }
+          ]
+        },
+        {
+          "Name": " Synthesis of a Tiacumicin B Protected Aglycone",
+          "Author Details": [
+            
+          ]
+        },
+        {
+          "Name": " Study of the Construction of the Tiacumicin B Aglycone",
+          "Author Details": [
+            
+          ]
+        },
+        {
+          "Name": " Heterologous production of myxobacterial α-pyrone antibiotics in Myxococcus xanthus",
+          "Author Details": [
+            
+          ]
+        },
+        {
+          "Name": " Antibiotics Targeting Bacterial RNA Polymerase",
+          "Author Details": [
+            
+          ]
+        },
+        {
+          "Name": " Single-stranded DNA aptamers for functional probing of bacterial RNA polymerase",
+          "Author Details": [
+            
+          ]
+        },
+        {
+          "Name": " Inhibitors of Bacterial Transcription are Compounds for Potent Antimicrobial Drugs",
+          "Author Details": [
+            
+          ]
+        },
+        {
+          "Name": " Novel bacterial RNA polymerase inhibitors: Structure activity exploration and optimization of the Aryl-ureidothiophene-carboxylic acids",
+          "Author Details": [
+            
+          ]
+        },
+        {
+          "Name": " Single-molecule fluorescence analysis of opening and closing of the RNA polymerase clamp",
+          "Author Details": [
+            {
+              "A Chakraborty": "Stanford University"
+            }
+          ]
+        },
+        {
+          "Name": " Multitargeted Flavonoid Inhibition of the Pathogenic Bacterium Staphylococcus aureus: A Proteomic Characterization",
+          "Author Details": [
+            {
+              "WA Elmasri": "Research Scientist"
+            }
+          ]
+        },
+        {
+          "Name": " Incidence, Molecular Characterization and Sensitivity to Buchholzia Coriacea Leaf Extract of Methicillin Resistant Staphylococcus Aureus Nasal Isolates From Tertiary …",
+          "Author Details": [
+            
+          ]
+        },
+        {
+          "Name": " Biological Activities of Lasso Peptides and Structure–Activity Relationships",
+          "Author Details": [
+            {
+              "Y Li": "Head of Tourism Management, CAIC, Dhurakij Pundit University"
+            }
+          ]
+        },
+        {
+          "Name": " A Thermus phage protein inhibits host RNA polymerase by preventing template DNA strand loading during open promoter complex formation",
+          "Author Details": [
+            
+          ]
+        },
+        {
+          "Name": " Fidaxomicin jams Mycobacterium tuberculosis RNA polymerase motions needed for initiation via RbpA contacts",
+          "Author Details": [
+            
+          ]
+        },
+        {
+          "Name": "Analysis of the Pseudouridimycin Biosynthetic Pathway Provides Insights into the Formation of C-nucleoside Antibiotics",
+          "Author Details": [
+            
+          ]
+        },
+        {
+          "Name": "The RNA polymerase clamp interconverts dynamically among three states and is stabilized in a partly closed state by ppGpp",
+          "Author Details": [
+            {
+              "R Ebright": "Board of Governors Professor of Chemistry and Chemical Biology, Rutgers University"
+            }
+          ]
+        },
+        {
+          "Name": " A case report of successful management of clostridium difficile colitis with antegrade Fidaxomicin through a mucous fistula obviating the need for subtotal …",
+          "Author Details": [
+            
+          ]
+        },
+        {
+          "Name": " Novel small-molecule inhibitors of mycobacterial RNA polymerase",
+          "Author Details": [
+            
+          ]
+        },
+        {
+          "Name": " Structural basis of transcription inhibition by the nucleoside-analog inhibitor thuringiensin",
+          "Author Details": [
+            
+          ]
+        },
+        {
+          "Name": " Deciphering the impact of rpoB mutations on the gene expression profile of Mycobacterium tuberculosis",
+          "Author Details": [
+            "J Du Plessis"
+          ]
+        },
+        {
+          "Name": " Characterization of a Mutant RNA Polymerase in Bacteriophage T4 Prereplicative Transcription",
+          "Author Details": [
+            
+          ]
+        },
+        {
+          "Name": " Frequency, Spectrum, and Nonzero Fitness",
+          "Author Details": [
+            "RH Ebright"
+          ]
+        },
+        {
+          "Name": " The use of Antibiotics for the Management of Severe Acute Malnutrition: A Review",
+          "Author Details": [
+            
+          ]
+        },
+        {
+          "Name": " Overcoming and preventing bacterial resistance to antibiotics: the development and characterization of novel RNA polymerase and PqsD inhibitors",
+          "Author Details": [
+            
+          ]
+        },
+        {
+          "Name": " Novel small-molecule inhibitors of mycobacterial RNAP",
+          "Author Details": [
+            
+          ]
+        },
+        {
+          "Name": " Preclinical evaluation and molecular docking of 2, 5–di–tert–butyl–1, 4–benzoquinone (DTBBQ) from Streptomyces sp. VITVSK1 as a potent antibacterial agent",
+          "Author Details": [
+            
+          ]
+        },
+        {
+          "Name": " Total Synthesis and SAR Investigations of Natural Products Inhibiting Bacterial RNA Polymerase",
+          "Author Details": [
+            
+          ]
+        },
+        {
+          "Name": " Bluegenics: Bioactive Natural Products of Medicinal Relevance and Approaches to Their Diversification",
+          "Author Details": [
+            {
+              "RJM Goss": "Reader in Organic/Biomolecular Chemistry"
+            }
+          ]
+        },
+        {
+          "Name": " АНАЛИЗ ВОЗМОЖНОСТЕЙ МОДЕЛИРОВАНИЯ И ВЫЯВЛЕНИЯ НОВЫХ ФАРМАКОЛОГИЧЕСКИХ МИШЕНЕЙ",
+          "Author Details": [
+            
+          ]
+        },
+        {
+          "Name": " 抗生素新靶位的研究进展",
+          "Author Details": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "Inositol methyl tranferase from a halophytic wild rice, Porteresia coarctata Roxb.": [
+        {
+          "Name": " Drought, salt, and temperature stress-induced metabolic rearrangements and regulatory networks",
+          "Author Details": [
+            {
+              "J Krasensky": ""
+            },
+            {
+              "C Jonak": ""
+            }
+          ]
+        },
+        {
+          "Name": " ROS homeostasis in halophytes in the context of salinity stress tolerance",
+          "Author Details": [
+            {
+              "J Bose": "ARC–DECRA Fellow, Plant Energy Biology, School of Agriculture, Food and Wine, Univesity of Adelaide"
+            },
+            {
+              "A Rorigo-Moreno": ""
+            }
+          ]
+        },
+        {
+          "Name": " Osmotic stress‐induced phosphoinositide and inositol phosphate signalling in plants",
+          "Author Details": [
+            {
+              "JEM Vermeer": "SNSF Professor at University of Zürich"
+            },
+            {
+              "T Munnik": ""
+            }
+          ]
+        },
+        {
+          "Name": " Myo-inositol and beyond–emerging networks under stress",
+          "Author Details": [
+            {
+              "R Valluru": "CIMMYT"
+            },
+            {
+              "W van den Ende": ""
+            }
+          ]
+        },
+        {
+          "Name": " Insight into the salt tolerance factors of a wild halophytic rice, Porteresia coarctata: a physiological and proteomic approach",
+          "Author Details": [
+            {
+              "S Sengupta": "Post Doctoral Staff Scientist in LSUAgTech"
+            },
+            {
+              "Al Majumder": ""
+            }
+          ]
+        },
+        {
+          "Name": " Diversity, distribution and roles of osmoprotective compounds accumulated in halophytes under abiotic stress",
+          "Author Details": [
+            {
+              "C Abdelly": "Center of Biotechnology of Borj-Cedria, CBBC"
+            },
+            {
+              "A Bouchereau": "Professor of Plant Physiology, University of Rennes 1"
+            },
+            {
+              "I Slama": ""
+            },
+            {
+              "T Flowers": ""
+            }
+          ]
+        },
+        {
+          "Name": " Physiological aspects of raffinose family oligosaccharides in plants: protection against abiotic stress",
+          "Author Details": [
+            {
+              "AI ElSayed": "Zagazig University, Faculty of Agriculture, Egypt"
+            },
+            {
+              "Ms Rafudeen": ""
+            },
+            {
+              "D Golldack": ""
+            }
+          ]
+        },
+        {
+          "Name": " Genetic lipodystrophies",
+          "Author Details": [
+            {
+              "A Garg": "Assistant Professor, Department of Life Sciences, SNU"
+            }
+          ]
+        },
+        {
+          "Name": " Expression of a finger millet transcription factor, EcNAC1, in tobacco confers abiotic stress-tolerance",
+          "Author Details": [
+            {
+              "V Ramegowda": "Post-Doctoral Associate, University of Arkansas"
+            },
+            {
+              "M Senthil-Kumar": "National Institute of Plant Genome Research"
+            },
+            {
+              "KN Nataraja": ""
+            }
+          ]
+        },
+        {
+          "Name": " Plants in extreme environments: importance of protective compounds in stress tolerance",
+          "Author Details": [
+            {
+              "L Szabados": "Institute of Plant Biology, Biological Research Centre"
+            },
+            {
+              "H Kovács": " Hungarian Academy of Sciences"
+            },
+            {
+              "A Zilberstein": ""
+            }
+          ]
+        },
+        {
+          "Name": " Enhanced salt tolerance of transgenic tobacco plants by co-expression of PcINO1 and McIMT1 is accompanied by increased level of myo-inositol and methylated …",
+          "Author Details": [
+            {
+              "B Patra": " University of Kentucky"
+            },
+            {
+              "A Richter": " University of Vienna"
+            },
+            {
+              "S Ray": ""
+            },
+            {
+              "AL Majumder": ""
+            }
+          ]
+        },
+        {
+          "Name": " Porteresia coarctata (Roxb.) Tateoka, a wild rice: a potential model for studying salt‐stress biology in rice",
+          "Author Details": [
+            {
+              "S Sengupta": "Post Doctoral Staff Scientist in LSUAgTech"
+            },
+            {
+              "AL Majumder": ""
+            }
+          ]
+        },
+        {
+          "Name": " Are soluble carbohydrates ecologically relevant for salt tolerance in halophytes?",
+          "Author Details": [
+            {
+              "C Lull": "Universidad Politécnica de Valencia"
+            },
+            {
+              "A Lidón": "Universidad Politécnica de Valencia, Instituto de Ingeniería del Agua y Medio Ambiente"
+            },
+            {
+              "R Gill": ""
+            },
+            {
+              "M Boscaiu": ""
+            },
+            {
+              "I Bautistsa": ""
+            }
+          ]
+        },
+        {
+          "Name": " Proteomics, metabolomics, and ionomics perspectives of salinity tolerance in halophytes",
+          "Author Details": [
+            {
+              "PK Agarwal": "CSIR-Central Salt and Marine Chemicals Research Institute"
+            },
+            {
+              "A Kumari": ""
+            },
+            {
+              "P DAs": ""
+            },
+            {
+              "AK Parida": ""
+            }
+          ]
+        },
+        {
+          "Name": " Increased salt and drought tolerance by d-ononitol production in transgenic Arabidopsis thaliana",
+          "Author Details": [
+            {
+              "C Ahn": ""
+            },
+            {
+              "U Park": ""
+            },
+            {
+              "PB Park": ""
+            }
+          ]
+        },
+        {
+          "Name": " Inositol transport proteins",
+          "Author Details": [
+            {
+              "S Schneider": ""
+            }
+          ]
+        },
+        {
+          "Name": " Nodule carbohydrate metabolism and polyols involvement in the response of Medicago sativa to salt stress",
+          "Author Details": [
+            {
+              "F PAlma": ""
+            },
+            {
+              "NA Tejera": ""
+            },
+            {
+              "C Lluch": ""
+            }
+          ]
+        },
+        {
+          "Name": " Galactinol synthase across evolutionary diverse taxa: Functional preference for higher plants?",
+          "Author Details": [
+            {
+              "S Sengupta": "Post Doctoral Staff Scientist in LSUAgTech"
+            },
+            {
+              "S Mukherjee": "School of Natural Product Studies, Jadavpur University, Kolkata 700032, India"
+            },
+            {
+              "S Parween": "PhD Scholar"
+            }
+          ]
+        },
+        {
+          "Name": " Association of SNP Haplotypes of HKT Family Genes with Salt Tolerance in Indian Wild Rice Germplasm",
+          "Author Details": [
+            {
+              "B Singh": "Assistant Professor of History, Rayat College of Law,Affiliated to Panjab University, Chandigarh"
+            },
+            {
+              "K Panda": "Unknown affiliation"
+            },
+            {
+              "S Mishra": ""
+            },
+            {
+              "N Singh": ""
+            }
+          ]
+        },
+        {
+          "Name": " Salt tolerance mechanisms in salt tolerant grasses (STGs) and their prospects in cereal crop improvement",
+          "Author Details": [
+            {
+              "S Roy": "Professor, Université de Montréal"
+            },
+            {
+              "U Chakraborty": ""
+            }
+          ]
+        },
+        {
+          "Name": " D-chiro-Inositol affects accumulation of raffinose family oligosaccharides in developing embryos of Pisum sativum",
+          "Author Details": [
+            {
+              "LB Lahuta": ""
+            },
+            {
+              "T Dzik": ""
+            }
+          ]
+        },
+        {
+          "Name": " Grapevine in a Changing Environment: A Molecular and Ecophysiological Perspective",
+          "Author Details": [
+            {
+              "MM Chaves": "Professor Emeritus Instituto Superior Agronomia"
+            },
+            {
+              "S Delrot": "Professor of Plant Physiology, University of Bordeaux"
+            },
+            {
+              "HM Gil": ""
+            }
+          ]
+        },
+        {
+          "Name": " Manipulation of inositol metabolism for improved plant survival under stress: a “network engineering approach”",
+          "Author Details": [
+            {
+              "S Sengupta": "Post Doctoral Staff Scientist in LSUAgTech"
+            },
+            {
+              "S Mukherjee": "School of Natural Product Studies, Jadavpur University, "
+            },
+            {
+              "L Goswami": ""
+            }
+          ]
+        },
+        {
+          "Name": " Haplotype distribution and association of candidate genes with salt tolerance in Indian wild rice germplasm",
+          "Author Details": [
+            {
+              "P Misra": "Sam Higginbottom Institute of Agriculture, Technology & Sciences, Allahabad"
+            },
+            {
+              "NK Singh": "National Professor BP Pal Chair, National Research Centre on Plant Biotechnology, Pusa, New Delhi"
+            },
+            {
+              "S Mishra": ""
+            },
+            {
+              "B Singh": ""
+            },
+            {
+              "V Rai": ""
+            }
+          ]
+        },
+        {
+          "Name": " A walk on the wild side: Oryza species as source for rice abiotic stress tolerance",
+          "Author Details": [
+            {
+              "RA Sperotto": "Universidade do Vale do Taquari "
+            },
+            {
+              "PK Menguer": ""
+            }
+          ]
+        },
+        {
+          "Name": " The inositol monophosphatase All2917 (IMPA1) is involved in osmotic adaptation in Anabaena sp. PCC7120",
+          "Author Details": [
+            {
+              "F K Wang": ""
+            },
+            {
+              "A Latifi": ""
+            },
+            {
+              "WL Chen": ""
+            }
+          ]
+        },
+        {
+          "Name": " Translational research in agricultural biology—enhancing crop resistivity against environmental stress alongside nutritional quality",
+          "Author Details": [
+            {
+              "AK Mattoo": "Unknown affiliation "
+            }
+          ]
+        },
+        {
+          "Name": " Cross-generic studies with rice indicate that ion homeostasis and antioxidant defense is associated with superior salinity tolerance in Cynodon dactylon (L …",
+          "Author Details": [
+            {
+              "S Roy": "IIM Udaipur "
+            }
+          ]
+        },
+        {
+          "Name": " Signal Perception and Mechanism of Salt Toxicity/Tolerance in Photosynthetic Organisms: Cyanobacteria to Plants",
+          "Author Details": [
+            {
+              "C Agrawal": ""
+            },
+            {
+              "S Sen": ""
+            },
+            {
+              "A Chatterjee": ""
+            },
+            {
+              "S Rai": ""
+            },
+            {
+              "S Yadav": ""
+            }
+          ]
+        },
+        {
+          "Name": " Importance of protective compounds in stress tolerance",
+          "Author Details": [
+            {
+              "A Saglam": ""
+            },
+            {
+              "S Jen": ""
+            }
+          ]
+        },
+        {
+          "Name": " Overexpression of the OsIMP gene increases the accumulation of inositol and confers enhanced cold tolerance in tobacco through modulation of the …",
+          "Author Details": [
+            {
+              "RX Zhang": ""
+            },
+            {
+              "LJ Qin": ""
+            },
+            {
+              "DG Zhao": ""
+            }
+          ]
+        },
+        {
+          "Name": " Molecular breeding for enhancing abiotic stress tolerance using halophytes",
+          "Author Details": [
+            {
+              "S George": "Principal Scientist, MSSRF"
+            },
+            {
+              "A Parida": ""
+            },
+            {
+              "K Kavitha": ""
+            }
+          ]
+        },
+        {
+          "Name": " Physiological and Metabolic Responses to Water-deficit and Heat Stress of Virginia-type Peanut Cultivars and Breeding Lines.",
+          "Author Details": [
+            {
+              "D Singh": "Ph.D. Student, Kansas State University"
+            }
+          ]
+        },
+        {
+          "Name": " Metabolite profiling at the cellular and subcellular level reveals metabolites associated with salinity tolerance in sugar beet",
+          "Author Details": [
+            {
+              "MS Hossain": "Sylhet Agricultural University"
+            },
+            {
+              "M Persicke": "Dr."
+            },
+            {
+              "AI ElSayed": "Zagazig University,"
+            }
+          ]
+        },
+        {
+          "Name": " Osmolyte dynamics: new strategies for crop tolerance to abiotic stress signals",
+          "Author Details": [
+            {
+              "AK Thukral": "Guru Nanak Dev University, Amritsar, Punjab, 143005, India"
+            },
+            {
+              "R Sharma": ""
+            },
+            {
+              "R Bhardwaj": ""
+            },
+            {
+              "N Handa": ""
+            }
+          ]
+        },
+        {
+          "Name": " 干旱, 盐分和温度胁迫诱导的植物代谢改变",
+          "Author Details": [
+            {
+              "刘春 ": ""
+            },
+            {
+              "曹丽敏": ""
+            },
+            {
+              "生物技术通报": ""
+            }
+          ]
+        },
+        {
+          "Name": " Metabolizm węglowodanów jako jeden ze składników mechanizmów tolerancji na stresy abiotyczne u roślin",
+          "Author Details": [
+            {
+              "S Zielinksa": ""
+            }
+          ]
+        },
+        {
+          "Name": " Plant Metabolites Expression",
+          "Author Details": [
+            {
+              "HA Hashem": "Ain Shams University."
+            },
+            {
+              "RA Hassanein": ""
+            }
+          ]
+        },
+        {
+          "Name": " Soni Chowrasia, Hukam Chand Rawal, Abhishek Mazumder, Kishor Gaikwad, Tilak Raj Sharma",
+          "Author Details": [
+            {
+              "NK Singh": ""
+            },
+            {
+              "TK Mondal": ""
+            }
+          ]
+        },
+        {
+          "Name": " The Arabidopsis GolS1 promotor as a potential biosensor for heat stress and fungal infection?",
+          "Author Details": [
+            {
+              "HC Janse van Rensburg": "KU Leuven"
+            }
+          ]
+        },
+        {
+          "Name": " The Possible Overlap Between Salinity and Mechanical Challenges in Porteresia coarctata",
+          "Author Details": [
+            {
+              "S Sengugpta": ""
+            }
+          ]
+        },
+        {
+          "Name": "  Myo-inositol 1-phosphate synthase–the chosen path of evolution",
+          "Author Details": [
+            {
+              "A Hazra": "Indian Statistical Institute"
+            },
+            {
+              "P Nandy": ""
+            }
+          ]
+        },
+        {
+          "Name": "Screening of salt-tolerance potential of some native forage grasses from the eastern part of Terai-Duar grasslands in India",
+          "Author Details": [
+            {
+              "S Roy": ""
+            },
+            {
+              "U Chakraborty": ""
+            }
+          ]
+        },
+        {
+          "Name": " The Transcriptional Modulation of Inositols and Raffinose Family Oligosaccharides Pathways in Plants—An (A) Biotic Stress Perspective",
+          "Author Details": [
+            {
+              "JRCF Neto": ""
+            },
+            {
+              "AC de Melo Souza": ""
+            }
+          ]
+        },
+        {
+          "Name": " Functional roles of raffinose family oligosaccharides: Arabidopsis case studies in seed physiology, biotic stress and novel carbohydrate engineering",
+          "Author Details": [
+            {
+              "B Loedolff": "Stellenbosch University"
+            }
+          ]
+        },
+        {
+          "Name": " Effects of a supernatant from Aspergillus oryzae culture on the regulation of crassulacean acid metabolism (CAM) and pinitol biosynthesis in the common ice …",
+          "Author Details": [
+            
+          ]
+        },
+        {
+          "Name": " (66 (2): 87-93) Mechanisms of Salt Tolerance in Rice Plants: Cell Wall-Related Genes and Expansins ",
+          "Author Details": [
+            {
+              "S Saito": ""
+            },
+            {
+              "K Yamano": ""
+            },
+            {
+              "H Ueda": ""
+            },
+            {
+              "Y Tani": ""
+            },
+            {
+              "M hayakawa": ""
+            }
+          ]
+        },
+        {
+          "Name": "Rice intermediate filament, OsIF, stabilizes photosynthetic machinery and yield under salinity and heat stress ",
+          "Author Details": [
+            {
+              "SL Singla-Pareek": "International Centre for Genetic Engineering and Biotechnology"
+            },
+            {
+              "A Pareek": "Jawaharlal Nehru University & University of Western Australia "
+            }
+          ]
+        },
+        {
+          "Name": " Metabolic rearrangements in grapevine response to salt stress",
+          "Author Details": [
+            {
+              "A Conde": "Post-Doctoral Researcher, University of Minho"
+            },
+            {
+              "R Breia": "Unknown affiliation"
+            },
+            {
+              "J Moutinho-Pereira": "Professor Auxiliar de Fisiologia Vegetal, Universidade de Trás-os-Montes e Alto Douro"
+            }
+          ]
+        },
+        {
+          "Name": " Regulation of Cell Volume by Osmolytes",
+          "Author Details": [
+            {
+              "YS Wijayasinghe": "Senior Lecturer, Faculty of Medicine, University of Kelaniya"
+            },
+            {
+              "A Tyagi": ""
+            },
+            {
+              "Nk Poddar": "Invertis University, Bareilly, UP"
+            }
+          ]
+        },
+        {
+          "Name": "The role of Ca2+ dependent protein kinase 3 in Arabidopsis thaliana during salt stress acclimation",
+          "Author Details": [
+            {
+              "B Wurzinger": ""
+            }
+          ]
+        },
+        {
+          "Name": " [HTML] Rice intermediate filament, OsIF, stabilizes photosynthetic machinery and yield under salinity and heat stress",
+          "Author Details": [
+            {
+              "N Soda": ""
+            },
+            {
+              "BK Gupta": ""
+            },
+            {
+              "K Anwar": ""
+            },
+            {
+              "A Sharan": ""
+            }
+          ]
+        },
+        {
+          "Name": "转 ACO2 基因优质棉生长特性及其对田间昆虫群落的影响",
+          "Author Details": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "Porteresia coarctata (Roxb.) Tateoka, a wild rice: a potential model for studying salt‐stress": [
+        {
+          "Name": " ROS homeostasis in halophytes in the context of salinity stress tolerance",
+          "Author Details": [
+            {
+              "J Bose": "ARC–DECRA Fellow, Plant Energy Biology, School of Agriculture, Food and Wine, Univesity of Adelaide"
+            }
+          ]
+        },
+        {
+          "Name": " Whole genome wide expression profiles of Vitis amurensis grape responding to downy mildew by using Solexa sequencing technology",
+          "Author Details": [
+            {
+              "Y Zhang": "National University of Singapore"
+            },
+            {
+              "H Huang": "Associate Professor, University of South Florida"
+            }
+          ]
+        },
+        {
+          "Name": " Protein contribution to plant salinity response and tolerance acquisition",
+          "Author Details": [
+            {
+              "K Kosova": ""
+            },
+            {
+              "IT Prasil": ""
+            },
+            {
+              "P Vitamvas": ""
+            }
+          ]
+        },
+        {
+          "Name": " Coordination of leaf photosynthesis, transpiration, and structural traits in rice and wild relatives (genus Oryza)",
+          "Author Details": [
+            {
+              "R Giuliani": ""
+            },
+            {
+              "N Koteyeva": ""
+            },
+            {
+              "E Voznesenskaya": ""
+            }
+          ]
+        },
+        {
+          "Name": " Genetic lipodystrophies",
+          "Author Details": [
+            {
+              "A Garg": "Assistant Professor, Department of Life Sciences, SNU"
+            }
+          ]
+        },
+        {
+          "Name": " Rapid regulation of the plasma membrane H+-ATPase activity is essential to salinity tolerance in two halophyte species, Atriplex lentiformis and Chenopodium …",
+          "Author Details": [
+            {
+              "J Bose": "ARC–DECRA Fellow, Plant Energy Biology, School of Agriculture, Food and Wine, Univesity of Adelaide"
+            },
+            {
+              "A Rodrigo-Moreno": ""
+            },
+            {
+              "D Lai": ""
+            },
+            {
+              "Y Xie..": ""
+            }
+          ]
+        },
+        {
+          "Name": " Proteomics, metabolomics, and ionomics perspectives of salinity tolerance in halophytes",
+          "Author Details": [
+            {
+              "PK Agarwal": "CSIR-Central Salt and Marine Chemicals Research Institute"
+            },
+            {
+              "A Kumari": ""
+            },
+            {
+              "P Das": ""
+            },
+            {
+              "AK Parida": ""
+            }
+          ]
+        },
+        {
+          "Name": " Could abiotic stress tolerance in wild relatives of rice be used to improve Oryza sativa?",
+          "Author Details": [
+            {
+              "BJ Atwell": "Macquarie University"
+            },
+            {
+              "AP Scafaro": "Postdoctoral Scientist, Bayer CropScience"
+            },
+            {
+              "H Wang": ""
+            }
+          ]
+        },
+        {
+          "Name": " Plant proteome responses to salinity stress–comparison of glycophytes and halophytes",
+          "Author Details": [
+            {
+              "K Kosova": ""
+            },
+            {
+              "P Vitamvas": ""
+            },
+            {
+              "MO Urban": ""
+            },
+            {
+              "IT Prasil": ""
+            }
+          ]
+        },
+        {
+          "Name": " Salt-tolerant genes from halophytes are potential key players of salt tolerance in glycophytes",
+          "Author Details": [
+            {
+              "MC Reddy": "Yogi Vemana University"
+            },
+            {
+              "Y Himabindu": ""
+            },
+            {
+              "T Chankradhar": ""
+            }
+          ]
+        },
+        {
+          "Name": " Back into the wild—Apply untapped genetic diversity of wild relatives for crop improvement",
+          "Author Details": [
+            {
+              "H Zhang": "University of North Carolina at Charlotte"
+            },
+            {
+              "N Mittal": "Univerisity of North Carolina at Charlotte"
+            },
+            {
+              "O Barazani": "Institute of Plant Sciences, Agricultural Research Organization, Israel"
+            },
+            {
+              "Lj Leamy": ""
+            }
+          ]
+        },
+        {
+          "Name": " True mangrove species of Sundarbans delta, West Bengal, eastern India",
+          "Author Details": [
+            {
+              "J Barik": ""
+            },
+            {
+              "S Chowdhury": ""
+            }
+          ]
+        },
+        {
+          "Name": " Salt tolerance mechanisms in salt tolerant grasses (STGs) and their prospects in cereal crop improvement",
+          "Author Details": [
+            {
+              "S Roy": "Professor, Université de Montréa"
+            },
+            {
+              "U Ck": ""
+            }
+          ]
+        },
+        {
+          "Name": " Ectopic expression of myo-inositol 3-phosphate synthase induces a wide range of metabolic changes and confers salt tolerance in rice",
+          "Author Details": [
+            {
+              "M Kusano": "Research Scientist of Plant Systems Biology, RIKEN Plant Science Center"
+            },
+            {
+              "K Saito": "Professor, Pharmaceutical Sciences, Chiba University, Group Director of RIKEN CSRS"
+            }
+          ]
+        },
+        {
+          "Name": " Improvement of salinity stress tolerance in rice: challenges and opportunities",
+          "Author Details": [
+            {
+              "B Williams": "Vice Chancellors Research Fellow, Queensland University of Technology"
+            }
+          ]
+        },
+        {
+          "Name": " Response of transgenic rice at germination traits under salt and alkali stress",
+          "Author Details": [
+            {
+              "XX Deng": ""
+            },
+            {
+              "XQ Zhang": ""
+            },
+            {
+              "XJ Song": ""
+            },
+            {
+              "KK Lai": ""
+            }
+          ]
+        },
+        {
+          "Name": " Assessment of genetic diversity in salt-tolerant rice and its wild relatives for ten SSR loci and one allele mining primer of salT gene located on 1st chromosome",
+          "Author Details": [
+            {
+              "SA Ganie": ""
+            },
+            {
+              "J karamakar": ""
+            },
+            {
+              "R RoyChowdhury": ""
+            }
+          ]
+        },
+        {
+          "Name": " Anatomical and physiological adaptations of mangroves",
+          "Author Details": [
+            {
+              "S Naskar": ""
+            },
+            {
+              "PK Palit": ""
+            }
+          ]
+        },
+        {
+          "Name": " Increasing Salinity Tolerance crop/cropping salinity tolerance of Crops crop/cropping",
+          "Author Details": [
+            {
+              "M Tester": "KAUST, Saudi Arabia"
+            },
+            {
+              "SJ Roy": ""
+            }
+          ]
+        },
+        {
+          "Name": " ROS Production, Scavenging, and Signaling under Salinity Stress",
+          "Author Details": [
+            {
+              "J Bose": "ARC–DECRA Fellow, Plant Energy Biology, School of Agriculture, Food and Wine, Univesity of Adelaide"
+            },
+            {
+              "M Zhou": "University of Tasmania"
+            },
+            {
+              "S Shabala": "University of Tasmania"
+            }
+          ]
+        },
+        {
+          "Name": " Understanding the Commoneome Operative in Plants in Response to Various Abiotic Stresses",
+          "Author Details": [
+            {
+              "HR Kushwaha": "Jawaharlal Nehru University"
+            },
+            {
+              "SL Singla-Pareek": "International Centre for Genetic Engineering and Biotechnology"
+            }
+          ]
+        },
+        {
+          "Name": " Role of polyphenols as antioxidants in native species from argentina under drought and salinization",
+          "Author Details": [
+            {
+              "M Reginato": ""
+            },
+            {
+              "C Varela": ""
+            },
+            {
+              "Am Cenzano": ""
+            },
+            {
+              "V luna": ""
+            }
+          ]
+        },
+        {
+          "Name": " A walk on the wild side: Oryza species as source for rice abiotic stress tolerance",
+          "Author Details": [
+            {
+              "RA Sperotto": "Universidade do Vale do Taquari - UNIVATES"
+            },
+            {
+              "Pk Menguer": ""
+            }
+          ]
+        },
+        {
+          "Name": " The pepper CaOSR1 protein regulates the osmotic stress response via abscisic acid signaling",
+          "Author Details": [
+            {
+              "C Park": ""
+            },
+            {
+              "CW Lim": ""
+            },
+            {
+              "SC Lee": ""
+            }
+          ]
+        },
+        {
+          "Name": " Salinity tolerance mechanism of economic halophytes from physiological to molecular hierarchy for improving food quality",
+          "Author Details": [
+            {
+              "C XU": ""
+            },
+            {
+              "X Tang": ""
+            },
+            {
+              "H Shao": ""
+            },
+            {
+              "H Wang": ""
+            }
+          ]
+        },
+        {
+          "Name": " Bypass flow and sodium transport in rice (Oryza sativa L.)",
+          "Author Details": [
+            {
+              "B Faiyue": ""
+            }
+          ]
+        },
+        {
+          "Name": " Effect of endophyte infection on chlorophyll a fluorescence in salinity stressed rice",
+          "Author Details": [
+            {
+              "LH Zhang": "Michigan State University"
+            },
+            {
+              "XM Li": ""
+            },
+            {
+              "MJ Chen": ""
+            },
+            {
+              "J Li": ""
+            },
+            {
+              "LJ Ma": ""
+            }
+          ]
+        },
+        {
+          "Name": " Salinity tolerance in plants",
+          "Author Details": [
+            {
+              "MR Hossain": "Associate Professor, Department of Genetics & Plant Breeding, Bangladesh Agricultural University"
+            },
+            {
+              "G Sharma": "Bhabha Atomic Research Centre"
+            },
+            {
+              "L Vickers": ""
+            }
+          ]
+        },
+        {
+          "Name": " Halophytes in biosaline agriculture: Mechanism, utilization, and value addition",
+          "Author Details": [
+            {
+              "GC Nikalje": "R. K. Talreja College, Ulhasnagar"
+            },
+            {
+              "AK Srivastava": "Bhabha Atomic Research Centre"
+            },
+            {
+              "GK Pandey": "Professor of Plant Molecular Biology, University of Delhi South Campus"
+            }
+          ]
+        },
+        {
+          "Name": " Oryza brachyantha A. Chev. et Roehr",
+          "Author Details": [
+            {
+              "FK Ricachenevsky": "Universidade Federal de Santa Maria"
+            }
+          ]
+        },
+        {
+          "Name": "Identification and characterization of a novel iron deficiency and salt stress responsive transcription factor IDEF1 in Porteresia coarctata",
+          "Author Details": [
+            {
+              "D Purohit": ""
+            },
+            {
+              "Hm Sankararamasubramanian": ""
+            },
+            {
+              "Ak PAl": ""
+            }
+          ]
+        },
+        {
+          "Name": "Soni Chowrasia, Hukam Chand Rawal, Abhishek Mazumder, Kishor Gaikwad, Tilak Raj Sharma",
+          "Author Details": [
+            {
+              "Nk Singh": ""
+            },
+            {
+              "TK Mondal": ""
+            }
+          ]
+        },
+        {
+          "Name": "The Possible Overlap Between Salinity and Mechanical Challenges in Porteresia coarctata",
+          "Author Details": [
+            {
+              "S Sengupta": ""
+            }
+          ]
+        },
+        {
+          "Name": "Characterization of Progenies from Intergeneric Hybridization Between Oryza sativa L. and Porteresia coarctata (Roxb.) Tateoka ",
+          "Author Details": [
+            {
+              "T Islam": ""
+            },
+            {
+              "S Biswas": ""
+            },
+            {
+              "UH Mita": ""
+            }
+          ]
+        },
+        {
+          "Name": "Physiological, Biochemical and Gene Expression Studies of Salinity Stress Response and Tolerance in Local Rice Varieties of Sarawak, Malaysia ",
+          "Author Details": [
+            {
+              "Byeopei hui": ""
+            }
+          ]
+        },
+        {
+          "Name": "The Gene Network That Regulates Salt Tolerance in Rice ",
+          "Author Details": [
+            {
+              "Dy Chao": ""
+            },
+            {
+              "HX LIn": ""
+            }
+          ]
+        },
+        {
+          "Name": "Genotypic Assessment by RAPD Markers and Ultrastructural Characteristics of a NaCl-Tolerant Potato Cell Line ",
+          "Author Details": [
+            {
+              "F Queiros": ""
+            },
+            {
+              "Jm Almeida": ""
+            },
+            {
+              "DPF Almeida": ""
+            }
+          ]
+        },
+        {
+          "Name": "Structural, physiological, and biochemical aspects of salinity tolerance of halophytes ",
+          "Author Details": [
+            {
+              "OA Rozentsvet": ""
+            },
+            {
+              "VN Nesterov": ""
+            }
+          ]
+        },
+        {
+          "Name": "Making Plants Break a Sweat: the Structure, Function, and Evolution of Plant Salt Glands ",
+          "Author Details": [
+            {
+              "M Dassanayake": ""
+            },
+            {
+              "JC Larkin": ""
+            }
+          ]
+        },
+        {
+          "Name": "Multifarious Role of ROS in Halophytes: Signaling and Defense ",
+          "Author Details": [
+            {
+              "GC Nikalje": ""
+            },
+            {
+              "SJ Mirajkar": ""
+            },
+            {
+              "TD Nikam": ""
+            }
+          ]
+        },
+        {
+          "Name": "Oryza coarctata Roxb ",
+          "Author Details": [
+            {
+              "S Chowrasia": ""
+            },
+            {
+              "HC Rawal": ""
+            },
+            {
+              "A Mazumder": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Osmolyte regulation in abiotic stress": [
+        {
+          "Name": " Physiological aspects of raffinose family oligosaccharides in plants: protection against abiotic stress",
+          "Author Details": [
+            {
+              "AI ElSayed": "Zagazig University, Faculty of Agriculture, Egypt"
+            },
+            {
+              "MS Rafudeen": ""
+            },
+            {
+              "D Golldack": ""
+            }
+          ]
+        },
+        {
+          "Name": " RhNAC3, a stress‐associated NAC transcription factor, has a role in dehydration tolerance through regulating osmotic stress‐related genes in rose petals",
+          "Author Details": [
+            {
+              "X Jiang": ""
+            },
+            {
+              "CZHnag": ""
+            },
+            {
+              "P Lu": ""
+            },
+            {
+              "G Jiang": ""
+            },
+            {
+              "X Liu": ""
+            }
+          ]
+        },
+        {
+          "Name": " Effects of lead stress on anti-oxidative enzymes and stress-related hormones in seedlings of Excoecaria agallocha Linn",
+          "Author Details": [
+            {
+              "Z Yan": ""
+            },
+            {
+              "NFY Tam": ""
+            }
+          ]
+        },
+        {
+          "Name": " Differences in lead tolerance between Kandelia obovata and Acanthus ilicifolius seedlings under varying treatment times",
+          "Author Details": [
+            {
+              "Z Yan": ""
+            },
+            {
+              "NFY Tam": ""
+            }
+          ]
+        },
+        {
+          "Name": " GLYCOLATE OXIDASE3, a glycolate oxidase homolog of yeast L-lactate cytochrome c oxidoreductase, supports L-lactate oxidation in roots of Arabidopsis",
+          "Author Details": [
+            {
+              "MKM Engqvist": "Chalmers University of Technology"
+            },
+            {
+              "J Schmitz": ""
+            },
+            {
+              "A Gertzmann": ""
+            }
+          ]
+        },
+        {
+          "Name": " Habitat phenotyping of two sub-Antarctic flies by metabolic fingerprinting: evidence for a species outside its home?",
+          "Author Details": [
+            {
+              "M Laparie": "Forest Zoology Research Unit, France"
+            },
+            {
+              "P Vernon": " University of Rennes 1"
+            },
+            {
+              "R Bical": ""
+            },
+            {
+              "V Larvor": ""
+            }
+          ]
+        },
+        {
+          "Name": " Anatomical and physiological adaptations of mangroves",
+          "Author Details": [
+            {
+              "S Naskar": ""
+            },
+            {
+              "Pk Patil": ""
+            }
+          ]
+        },
+        {
+          "Name": " Plant-Microbe Interactions in Adaptation of Agricultural Crops to Abiotic Stress Conditions",
+          "Author Details": [
+            {
+              "H Etesami": "Department of Soil Science, University of Thehran, Iran"
+            },
+            {
+              "GA Beattie": "Professor of Plant Pathology & Microbiology, Iowa State University"
+            }
+          ]
+        },
+        {
+          "Name": " A balanced JA/ABA status may correlate with adaptation to osmotic stress in Vitis cells",
+          "Author Details": [
+            {
+              "A Ismail": "Damanhour University"
+            },
+            {
+              "M Seo": ""
+            },
+            {
+              "Y Kamiya": ""
+            }
+          ]
+        },
+        {
+          "Name": " Mécanismes et stratégies cellulaires de tolérance à la salinité (NaCl) chez les plantes",
+          "Author Details": [
+            {
+              "M Hanana": ""
+            },
+            {
+              "L Hamrouni": ""
+            },
+            {
+              "O Cagnac": ""
+            }
+          ]
+        },
+        {
+          "Name": " The role of selenium in amelioration of heat-induced oxidative damage in cucumber under high temperature stress",
+          "Author Details": [
+            {
+              "RM Balal": ""
+            },
+            {
+              "MA Shahid": ""
+            },
+            {
+              "MM Javid": ""
+            },
+            {
+              "Z Iqbal": ""
+            }
+          ]
+        },
+        {
+          "Name": " Heavy metal detoxification mechanisms in halophytes: an overview",
+          "Author Details": [
+            {
+              "JT Puthur": "University of Calicut"
+            },
+            {
+              "AM Shackira": ""
+            },
+            {
+              "P Sruthi": ""
+            }
+          ]
+        },
+        {
+          "Name": " Importance of protective compounds in stress tolerance",
+          "Author Details": [
+            {
+              "A Saglam": ""
+            },
+            {
+              "S Jan": ""
+            }
+          ]
+        },
+        {
+          "Name": " Effet de la salinité sur les paramètres morphophysiologiques de deux variétés de bananier (Musa acuminata L)",
+          "Author Details": [
+            {
+              "M Belfakih": ""
+            },
+            {
+              "M Ibriz": ""
+            },
+            {
+              "A Zouahri": ""
+            }
+          ]
+        },
+        {
+          "Name": " Asimilación de amonio y acumulación de osmolitos nitrogenados en condiciones de déficit hídrico en la leguminosa modelo Lotus japonicus",
+          "Author Details": [
+            {
+              "D Gadea": ""
+            },
+            {
+              "P Wilson": ""
+            }
+          ]
+        },
+        {
+          "Name": " Abiotic stress tolerance of the Brassica oilseeds.",
+          "Author Details": [
+            {
+              "IA Parkin": "Unknown Affiliation"
+            }
+          ]
+        },
+        {
+          "Name": " Effects of watering regime, organic manuring and mycorrhizal inoculation on the growth and development of Shea butter (Vitellaria paradoxa CF Gaertn) …",
+          "Author Details": [
+            {
+              "SO Agele": ""
+            },
+            {
+              "AU Osaigbovo": ""
+            },
+            {
+              "SA Ogedegbe": ""
+            }
+          ]
+        },
+        {
+          "Name": " Salinity response in chloroplasts: insights from gene characterization",
+          "Author Details": [
+            {
+              "S Chen": "Professor of Biology, Faculty Director of Proteomics"
+            },
+            {
+              "J Suo": ""
+            },
+            {
+              "Q Zhao": ""
+            },
+            {
+              "L David": ""
+            },
+            {
+              "S Dai": ""
+            }
+          ]
+        },
+        {
+          "Name": " Brassica Crops: Improving Abiotic Stress Tolerance–Current Status and Prospects",
+          "Author Details": [
+            {
+              "IA Parkin": "Unknown Affiliation"
+            },
+            {
+              "SJ Robinson": ""
+            }
+          ]
+        },
+        {
+          "Name": " Mécanismes et stratégies cellulaires de tolérance à la salinité (NaCl) chez les plantes",
+          "Author Details": [
+            {
+              "H Mohsen": ""
+            },
+            {
+              "H Lamia": ""
+            },
+            {
+              "C Olivier": ""
+            }
+          ]
+        },
+        {
+          "Name": " Optimization of a biostimulant formulation",
+          "Author Details": [
+            {
+              "L Berg": ""
+            }
+          ]
+        },
+        {
+          "Name": " Methods for the identification of genes involved in abiotic stress tolerance in plants",
+          "Author Details": [
+            {
+              "B Andreuzza": ""
+            },
+            {
+              "M Aukerman": ""
+            },
+            {
+              "Jl BRothers": ""
+            }
+          ]
+        },
+        {
+          "Name": " Large Differences in Gene Expression Responses to Drought and Heat Stress between Elite Barley Cultivar Scarlett and a Spanish Landrace",
+          "Author Details": [
+            {
+              "CP Cantalapiedra": ""
+            },
+            {
+              "MJ Garcia-Pereira": ""
+            }
+          ]
+        },
+        {
+          "Name": " Effects of shading, irrigation and mycorrhizal inoculation on growth and development of oil palm Elaeis guineensis Jacq.(Magnoliophyta: Arecaceae) seedlings …",
+          "Author Details": [
+            {
+              "So Agele": ""
+            },
+            {
+              "P Aiyelari": ""
+            },
+            {
+              "C Friday": ""
+            }
+          ]
+        },
+        {
+          "Name": " Modulation of Protein Aggregation/Fibrillation by Osmolytes",
+          "Author Details": [
+            {
+              "LR Singh": "Dr. B R Ambedkar Center for Biomedical Research, University of Delhi, Delhi"
+            },
+            {
+              "TA Dar": "Clinical Biochemistry, University of Kashmir, srinagar"
+            },
+            {
+              "My Bhat": ""
+            }
+          ]
+        },
+        {
+          "Name": " Estresse térmico no conteudo de prolina de plântulas de guandu oriundas de sementes tratadas com poliaminas",
+          "Author Details": [
+            {
+              "J Silva": ""
+            }
+          ]
         }
       ]
     }
